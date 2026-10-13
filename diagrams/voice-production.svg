@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title description">
 <title id="title">How your voice makes sound</title>
 <desc id="description">Three conceptual cards showing air from the lungs, vocal-fold vibration, and sound shaping through the throat, mouth and nose. The drawing is schematic, not anatomical cross sections.</desc>
-<metadata>Original editable SVG diagram for Singing KPS. MIT-licensed repository artwork. Source meaning and limitations are explained in the owning Markdown document. Diagram is schematic, not a medical assessment or a precise measurement.</metadata>
+<metadata>Original editable SVG diagram for Singing KPS. No external artwork has been incorporated. Source meaning and limitations are explained in the owning Markdown document. Diagram is schematic, not a medical assessment or a precise measurement.</metadata>
 <defs>
   <linearGradient id="page" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F9FCFD"/><stop offset="1" stop-color="#ECF5FA"/></linearGradient>
   <filter id="shadow" x="-15%" y="-15%" width="130%" height="145%"><feDropShadow dx="0" dy="9" stdDeviation="14" flood-color="#193E56" flood-opacity=".075"/></filter>

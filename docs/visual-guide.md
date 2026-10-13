@@ -40,4 +40,4 @@ The numbered cards show the *recommended* learning order. Comfort is a prerequis
 
 ## Source and rights
 
-Original editable SVG illustrations were created for Singing KPS and are intended as MIT-licensed KPS-authored artwork. Their source files are the committed SVGs in `diagrams/`; they are not outputs of the optional D2 renderer. The core concepts are source-aligned through their nearby Reference records. No third-party artwork was copied. Visual self-review does not establish independent reader comprehension.
+The diagrams are original editable SVG illustrations created for Singing KPS. The repository currently has no standalone LICENSE file; no specific reuse licence is asserted by these diagram descriptions. Their source files are the committed SVGs in `diagrams/`; they are not outputs of the optional D2 renderer. The core concepts are source-aligned through their nearby Reference records. No third-party artwork was copied. Visual self-review does not establish independent reader comprehension.
