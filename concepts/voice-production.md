@@ -25,6 +25,12 @@ The **larynx** is a structure in the neck that contains the **vocal folds**, two
 
 The voice's pitch and loudness are different properties of the result. Making a pitch higher does not mean that the singer must make it louder.
 
+## Voice production at a glance
+
+![Three-step schematic of voice production, from airflow to vocal-fold vibration to sound shaping in the throat, mouth and nose](../diagrams/voice-production.svg)
+
+The arrows show an explanatory sequence, not three independent organs working in isolation. The simplified pictures are not precise anatomical cross-sections. Airflow is the energy source, fold vibration generates sound and the vocal tract shapes it. This is not a technique prescription.
+
 ## Example and boundary
 
 You can gently hum one comfortable sound and then speak a short sentence. Both involve voiced sound; the audible difference does not prove that you used a correct or incorrect singing technique.

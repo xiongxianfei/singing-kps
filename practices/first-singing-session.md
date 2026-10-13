@@ -35,6 +35,10 @@ Stage order is **recommended**, not an obligation to finish in one sitting. The 
 3. [Stage3 Feel four beats](#stage3-feel-four-beats)
 4. [Stage4 Combine and review](#stage4-combine-and-review)
 
+![Illustrated four-part beginner sequence: check comfort, explore pitch direction, keep four beats, combine and reflect; stop for strain or new hoarseness](../diagrams/first-singing-session.svg)
+
+The illustration summarizes the **recommended** order. It does not replace the actionable instructions and stop conditions below. A different order or stopping early may be appropriate when prerequisites are not met.
+
 ## Stage1 Check voice comfort
 
 **Steps**

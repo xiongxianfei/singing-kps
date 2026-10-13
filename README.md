@@ -20,6 +20,10 @@ Read [First singing session](practices/first-singing-session.md). It offers a ge
 
 Do not practise through pain, hoarseness, illness-related voice changes or persistent vocal fatigue. The [NIDCD voice care guidance](references/nidcd-2025-taking-care-of-your-voice.md) identifies warning signs and when to seek professional help.
 
+## Visual guide
+
+See [the beginner visual guide](docs/visual-guide.md) for four original, scalable illustrations: voice production, pitch direction, beat versus rhythm, and the first practice.
+
 ## Knowledge map
 
 - [Voice production](concepts/voice-production.md) explains how voiced sound is generated and shaped.

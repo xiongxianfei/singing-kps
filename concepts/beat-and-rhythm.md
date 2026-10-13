@@ -25,6 +25,12 @@ In the Western music theory terminology used here, a **beat** is a recurring pul
 
 A chosen tempo tells you approximately how quickly beats recur. For this beginner task, no precise number of beats per minute is required.
 
+## See pulse versus rhythm
+
+![Four equally spaced beat markers; hummed sounds on beats one, two and three, followed by a silent rest on beat four](../diagrams/beat-and-rhythm.svg)
+
+All four beat markers remain evenly spaced; a rest on beat four does **not** mean the beat disappears. The blue markers represent the underlying pulse, and the green sound boxes plus outlined rest represent one possible rhythm.
+
 ## Worked example
 
 Tap four evenly spaced beats while counting **one, two, three, four**. Say a quiet spoken **la** on beats one, two and three, then remain silent on beat four. You maintained a four-beat pulse and performed a three-sound pattern followed by a rest. Singing can later add different pitches to the first three sounds.
