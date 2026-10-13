@@ -1,0 +1,21 @@
+name: Validate KPS structure
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run pinned KPS 9.1.0 structural validator
+        run: |
+          curl --fail --location --silent --show-error --retry 3 \
+            https://raw.githubusercontent.com/xiongxianfei/knowledge-practice-system/6a6e7aedc24581769fad435f4943856c1060e02a/validate.py \
+            --output /tmp/kps-validate.py
+          python /tmp/kps-validate.py .

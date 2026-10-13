@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "meaning": "Declared/direct dependencies requiring human summary review after content changes; not proof of factual or semantic validity.",
+  "entries": {
+    "concepts/voice-production.md": {
+      "practices/first-singing-session.md": "a5619906b6b4cb66aa88eb2ed162edada4c46eac46844f96c528b6305d86e2d1",
+      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93"
+    },
+    "concepts/pitch.md": {
+      "references/open-music-theory-undated-notation.md": "3ee21cc216256de01232dcebec71d5ab2756e688df47bbc46fa5f238091c74a3"
+    },
+    "concepts/beat-and-rhythm.md": {
+      "references/open-music-theory-undated-notating-rhythm.md": "141291840def4b2f94756aa136c793f95b05c2535d78d83e1d373cb84735ba19",
+      "references/open-music-theory-undated-simple-meter.md": "1b3f2d8fdfa180821c1baa29052bdf6b8f342e4091a16c82ae5c99e1c6454efd"
+    },
+    "practices/first-singing-session.md": {
+      "concepts/beat-and-rhythm.md": "1811ff6119c1d6252ee86734612795b2a135d466e321aa921f5899447cb526fe",
+      "concepts/pitch.md": "53859536f934e74a2659d03e6f2312c40ab91bc8d82be25da02cac94cf008fed",
+      "concepts/voice-production.md": "7552245b4db24d976981fbcc70bc2917cad07914b6b1a1be7e0931cbb395f31c",
+      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93",
+      "references/open-music-theory-undated-sight-singing.md": "6033922e7f0e190ae311bf51e819a80be100878960bf8050883383328e1a37b3"
+    }
+  }
+}
