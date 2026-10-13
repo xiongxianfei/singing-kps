@@ -29,6 +29,12 @@ For this introductory task, compare two reasonably steady voiced sounds:
 
 Pitch is not loudness. A person can produce a quiet high note or a loud low note. Singing *in tune* with a reference means reproducing an intended pitch relationship accurately; simply noticing the direction of a change is a more modest first task.
 
+## See the relative pitch contour
+
+![A three-note melody contour rising from a starting note to a higher note and returning toward the start, ordered from left to right](../diagrams/pitch-contour.svg)
+
+The illustration shows the **relative direction** of three notes; it does not set a pitch, interval or singing volume. The first and third pitches are intended to be near one another. The middle tone is higher, not necessarily louder.
+
 ## Example and limit
 
 A simple sung contour can be represented as **starting pitch, somewhat higher pitch, return toward starting pitch**. These are relationships, not named musical notes or a measured tuning assessment. If it is not clear which note is higher, repeat gently or ask a teacher to demonstrate rather than forcing your vocal range.

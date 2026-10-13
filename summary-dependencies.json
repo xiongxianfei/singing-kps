@@ -3,7 +3,7 @@
   "meaning": "Declared/direct dependencies requiring human summary review after content changes; not proof of factual or semantic validity.",
   "entries": {
     "concepts/voice-production.md": {
-      "practices/first-singing-session.md": "a5619906b6b4cb66aa88eb2ed162edada4c46eac46844f96c528b6305d86e2d1",
+      "practices/first-singing-session.md": "6c3d0539d9204e72ab178e0b4b617464361910ee551452912255685a7d13e3b2",
       "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93"
     },
     "concepts/pitch.md": {
@@ -14,9 +14,9 @@
       "references/open-music-theory-undated-simple-meter.md": "1b3f2d8fdfa180821c1baa29052bdf6b8f342e4091a16c82ae5c99e1c6454efd"
     },
     "practices/first-singing-session.md": {
-      "concepts/beat-and-rhythm.md": "1811ff6119c1d6252ee86734612795b2a135d466e321aa921f5899447cb526fe",
-      "concepts/pitch.md": "53859536f934e74a2659d03e6f2312c40ab91bc8d82be25da02cac94cf008fed",
-      "concepts/voice-production.md": "7552245b4db24d976981fbcc70bc2917cad07914b6b1a1be7e0931cbb395f31c",
+      "concepts/beat-and-rhythm.md": "9f9b33337d4a8079bd34484001fad86c7e821355575308088bcfd2299c0c6074",
+      "concepts/pitch.md": "8359f3df808c987511639c18b4c636aa7928870ff08797ad45d1da25668bb52c",
+      "concepts/voice-production.md": "a000edc562899fa88f0a3ef6cd93f21c8f42002240d3c4d2a83c57bf86fd63ed",
       "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93",
       "references/open-music-theory-undated-sight-singing.md": "6033922e7f0e190ae311bf51e819a80be100878960bf8050883383328e1a37b3"
     }
