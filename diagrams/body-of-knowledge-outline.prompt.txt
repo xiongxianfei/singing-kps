@@ -1,91 +1,59 @@
-Generation mode: built-in image_gen
-
 Image 1: body-of-knowledge-outline-foundations.png
 
-Use case: infographic-diagram
-Asset type: premium illustrated educational coverage poster for a beginner singing knowledge library.
-Primary request: Create a polished, highly legible landscape 3:2 editorial infographic. Warm ivory paper, deep navy typography, muted teal and soft blue with restrained amber accents; fine linework and delicate natural shading. Sophisticated music-education book illustration. Strong type hierarchy, generous spacing, no text over illustration. Five topic panels: upper 2-by-2 grid of four panels, final panel full-width below. Each panel has its supplied number, exact heading, and readable topic list beside a small evocative illustration. Illustrations use only about a third of each panel.
-Constraints: Text exactly as supplied; every topic once. No extra slogans, logos, watermark, progress scores or certification badges. No copied musical score or lyrics. Decorative musical marks are not exercise notation. No precise anatomical diagrams, vocal-range targets, posture prescriptions or forceful singing. This is an overview of intended knowledge coverage, not a sequence of vocal exercises. No arrows between areas. Opaque background. Keep footers large enough to read.
-Title: "Singing Body of Knowledge"
-Subtitle: "Coverage outline • 1 of 2"
-Panel 01 heading: "Voice production and breathing"
-Topics:
-"The vocal instrument"
-"Body and breath coordination"
-"Phonation and sound continuity"
-"Individual and developing voices"
-Illustration: a naturally relaxed adult singer shown modestly from shoulders up beside a gently flowing sound ribbon, with no anatomical cutaway.
-Panel 02 heading: "Vocal care and comfortable use"
-Topics:
-"Comfort and warning signs"
-"Vocal load and recovery"
-"Appropriate professional support"
-Illustration: water glass, resting closed notebook and a calm pause symbol, no medical diagnosis imagery.
-Panel 03 heading: "Listening pitch and intonation"
-Topics:
-"Pitch direction and contour"
-"Reference-pitch matching"
-"Intervals and tonal context"
-"Intonation and listening feedback"
-Illustration: ear silhouette, small keyboard and abstract rising/falling melodic ribbon, no frequency scale or required pitches.
-Panel 04 heading: "Beat rhythm and meter"
-Topics:
-"Pulse and tempo"
-"Durations and rests"
-"Meter and grouping"
-Illustration: an elegant metronome and simple separated pulse marks, no exercise.
-Panel 05 heading: "Resonance and vocal timbre"
-Topics:
-"Source and vocal-tract shaping"
-"Vowels and tone quality"
-"Dynamics and vibrato"
-Illustration: flowing layered sound waves with different textures, clearly metaphorical and not an anatomy lesson.
-Footer line 1: "Understand • Listen • Coordinate • Express • Reflect"
-Footer line 2: "Intended coverage. Current lessons cover only a first beginner task."
+Use case: scientific-educational.
+Create a polished high-resolution landscape 4:3 educational infographic for a Markdown knowledge outline. Warm ivory paper, restrained teal and gold watercolor accents, navy text, elegant but exceptionally readable typography, ample whitespace. Small schematic illustrations only: no anatomical cutaways, clinical claims, exercises, staff notation or scores. No decorative slogans, no invented words, no watermark. All supplied text must be accurate. All topic cards have equal visual status: no category headings, parent panels, group borders, shared-topic band, or nested hierarchy. Connections are explanatory interfaces, not a pipeline or lesson order.
+Title: "Production and phrasing connections"
+Subtitle: "Selected topics from the singing outline"
+Six equal cards in a spacious 3-column by 2-row layout, with matching watercolor mini-illustrations and the exact text below. No parent grouping panel.
+Top-left title "Respiration"
+Body "Breath supply, pressure and airflow"
+Interface line "Interfaces: Phonation · Phrasing"
+Top-middle title "Phonation"
+Body "Vibration and sound generation"
+Interface line "Interfaces: Respiration · Resonance · Registration"
+Top-right title "Vocal tract resonance"
+Body "Configuration, resonances and sound spectrum"
+Interface line "Interfaces: Phonation · Articulation · Registration"
+Bottom-left title "Phrasing"
+Body "Boundaries, emphasis, timing and continuity"
+Interface line "Interfaces: Respiration · Rhythm · Diction"
+Bottom-middle title "Registration"
+Body "Register accounts and transitions"
+Interface line "Interfaces: Phonation · Resonance · Pitch"
+Bottom-right title "Articulation"
+Body "Articulators and speech-sound formation"
+Interface line "Interfaces: Resonance · Diction · Text setting"
+Use restrained, non-anatomical sound ribbons, abstract vibration, vowel dots, and phrase arcs for artwork. No posture instructions.
+Thin undirected lines through gaps connect Respiration to Phonation, Respiration to Phrasing, Phonation to Registration, and Vocal tract resonance to Articulation. No arrowheads or mandatory process order.
+Footer: "Interfaces connect systems; they do not remove their boundaries."
+Use exactly supplied words only.
 
-Image 2: body-of-knowledge-outline-musical-practice.png (initial generation, followed by the refinement below)
+Image 2: body-of-knowledge-outline-musical-practice.png
 
-Use case: infographic-diagram
-Asset type: premium illustrated educational coverage poster for a beginner singing knowledge library.
-Primary request: Create a polished, highly legible landscape 3:2 editorial infographic. Warm ivory paper, deep navy typography, muted teal and soft blue with restrained amber accents; fine linework and delicate natural shading. Sophisticated music-education book illustration. Strong type hierarchy, generous spacing, no text over illustration. Five topic panels: upper 2-by-2 grid of four panels, final panel full-width below. Each panel has its supplied number, exact heading, and readable topic list beside a small evocative illustration. Illustrations use only about a third of each panel.
-Constraints: Text exactly as supplied; every topic once. No extra slogans, logos, watermark, progress scores or certification badges. No copied musical score or lyrics. Decorative musical marks are not exercise notation. No precise anatomical diagrams, vocal-range targets, posture prescriptions or forceful singing. This is an overview of intended knowledge coverage, not a sequence of vocal exercises. No arrows between areas. Opaque background. Keep footers large enough to read.
-Title: "Singing Body of Knowledge"
-Subtitle: "Coverage outline • 2 of 2"
-Panel 06 heading: "Registers range and transitions"
-Topics:
-"Register terminology"
-"Range and tessitura"
-"Transitions and coordination"
-Illustration: a keyboard with softly arcing sound ribbons, no fixed voice-type labels or measurable ranges.
-Panel 07 heading: "Articulation vowels and diction"
-Topics:
-"Vowels and consonants"
-"Pronunciation and meaning"
-"Text and musical timing"
-Illustration: an open language notebook with abstract speech symbols and a pencil; no phonetic claims or tiny words.
-Panel 08 heading: "Notation and sight singing"
-Topics:
-"Reading written pitch"
-"Reading rhythm and directions"
-"From notation to sound"
-Illustration: an original decorative music page on a stand beside a small keyboard, not a copied score or an exercise to perform.
-Panel 09 heading: "Songs phrasing and performance"
-Topics:
-"Repertoire selection"
-"Phrasing and expression"
-"Style and musical context"
-"Singing with others and presenting"
-Illustration: a relaxed adult singer with an accompanist at a piano, small, warm and inviting, no dramatic strained posture.
-Panel 10 heading: "Practice feedback and skill development"
-Topics:
-"Choosing a practice task"
-"Separating and combining skills"
-"Observations and recording limits"
-"Retention and transfer"
-Illustration: open practice notebook, headphones and simple recorder with abstract waveform, no invented metrics.
-Footer line 1: "Understand • Listen • Coordinate • Express • Reflect"
-Footer line 2: "Intended coverage. Current lessons cover only a first beginner task."
-
-Image 2 refinement prompt:
-
-Edit only the open notebook in the lower-left illustration of panel 10 in the most recent Singing Body of Knowledge Coverage outline 2 of 2 poster. Remove all handwritten words ("Explore", "Listen", "Try", "Adjust", "Keep going") from the notebook, leaving clean ruled pages with no text. Preserve every other pixel as closely as possible: all headings, 17 topic labels, numbers 06–10, footer, singer, piano, notebook geometry, recorder, colors, typography and layout must remain unchanged. Do not add any words or symbols.
+Use case: scientific-educational.
+Create a polished high-resolution landscape 4:3 educational infographic for a Markdown knowledge outline. Warm ivory paper, restrained teal and gold watercolor accents, navy text, elegant but exceptionally readable typography, ample whitespace. Small schematic illustrations only: no anatomical cutaways, clinical claims, exercises, staff notation or scores. No decorative slogans, no invented words, no watermark. All supplied text must be accurate. All topic cards have equal visual status: no category headings, parent panels, group borders, shared-topic band, or nested hierarchy. Connections are explanatory interfaces, not a pipeline or lesson order.
+Title: "Pitch, timing and text connections"
+Subtitle: "Selected topics from the singing outline"
+Six equal cards in a spacious 3-column by 2-row layout, with matching small watercolor mini-illustrations and exact text below. No parent group panels.
+Top-left title "Pitch relationships"
+Body "Height · Class · Octave · Interval"
+Interface line "Interfaces: Tonality · Pitch matching"
+Top-middle title "Rhythmic organisation"
+Body "Events · Durations · Rests · Pulse"
+Interface line "Interfaces: Meter · Text setting · Phrasing"
+Top-right title "Metrical organisation"
+Body "Beat grouping · Subdivision · Accent"
+Interface line "Interfaces: Rhythm · Phrasing"
+Bottom-left title "Tonal organisation"
+Body "Tonal centre · Scale · Scale degrees"
+Interface line "Interfaces: Pitch relationships · Melody"
+Bottom-middle title "Text setting"
+Body "Syllables and stress aligned with musical events"
+Interface line "Interfaces: Articulation · Diction · Rhythm"
+Bottom-right title "Auditory vocal pitch matching"
+Body "Reference · Perceived target · Attempt · Feedback"
+Interface line "Interfaces: Pitch relationships · Phonation · Learning"
+Watercolor motifs: abstract pitch dots, duration bars, groups of beat markers, tonic with surrounding dots, syllable cards aligned with event dots, ear and sound ribbons. No exact notation or lyrics.
+Thin undirected lines through gaps connect Pitch relationships to Tonal organisation, Rhythmic organisation to Metrical organisation, and Rhythmic organisation to Text setting. No arrowheads or process ordering.
+Footer: "Relationships describe music; coordination connects perception and action."
+Use only supplied words.

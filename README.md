@@ -14,9 +14,9 @@ Begin with one comfortable, observable singing task rather than memorising an en
 
 Singing KPS is an independent, source-linked beginner learning package using the Knowledge Practice System authoring language 9.x and the inspected Core 11.0.0 conventions. It offers a first humming and rhythm exercise and a separate ear-first reference-pitch task. No musical notation, prior training, fixed vocal range or performance experience is assumed.
 
-![Ten connected areas of beginner singing knowledge, from voice production and listening to musical performance and skill development; notation and sight singing is an optional reading branch.](diagrams/body-of-knowledge-overview.png)
+![Direct singing topics include respiration, pitch relationships, registration, phrasing, repertoire and learning, with selected interfaces; notation and sight singing is optional.](diagrams/body-of-knowledge-overview.png)
 
-The overview summarises the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [complete topic outline](docs/body-of-knowledge-outline.md#overall-outline) to see all ten areas and 34 topics, then follow the coverage tables for required understanding, intended capabilities and gaps. The existing [detailed topic pictures](docs/body-of-knowledge-outline.md#optional-detailed-illustrations) remain optional supporting views. The current lessons support two limited beginner tasks; the outline defines the broader knowledge to develop.
+The overview summarises the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [complete topic outline](docs/body-of-knowledge-outline.md#overall-outline) to find directly named topics and their subsystem boundaries and interfaces, then follow the coverage tables for required understanding, intended capabilities and gaps. The existing [detailed topic pictures](docs/body-of-knowledge-outline.md#optional-detailed-illustrations) remain optional supporting views. The current lessons support two limited beginner tasks; the outline defines the broader knowledge to develop.
 
 ## Start here
 
@@ -32,6 +32,7 @@ Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) to unders
 
 - [Voice production](concepts/voice-production.md) explains how voiced sound is generated and shaped.
 - [Pitch](concepts/pitch.md) distinguishes matching, contour and octave placement without requiring note naming.
+- [Pitch relationships](models/pitch-relationships.md) connects pitch height, pitch class, octave and interval in worked comparisons; it separates a matching target from a contour.
 - [Intonation](concepts/intonation.md) explains accuracy relative to a target and uncertainty in judging it.
 - [Beat and rhythm](concepts/beat-and-rhythm.md) separates the pulse from durations and silence.
 - [First singing session](practices/first-singing-session.md) integrates these ideas into a small task.

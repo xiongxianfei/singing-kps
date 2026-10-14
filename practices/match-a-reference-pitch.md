@@ -1,14 +1,14 @@
 ---
 id: "sing:practice:match-a-reference-pitch"
 type: "practice"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
 references: ["sing:reference:nidcd-voice-care", "sing:reference:blanco-2021-feedback", "sing:reference:nats-voice-pedagogy-syllabus", "sing:reference:trinity-singing-syllabus"]
 uses_concepts: ["sing:concept:pitch", "sing:concept:intonation"]
 uses_methods: ["sing:method:reference-pitch-comparison"]
-uses_models: ["sing:model:auditory-vocal-pitch-matching"]
+uses_models: ["sing:model:auditory-vocal-pitch-matching", "sing:model:pitch-relationships"]
 practice_format: "steps-first-v1"
 stage_order: "recommended; playback and comfortable vocal use are prerequisites"
 stage_titles: ["Stage1 Set up and choose a reference", "Stage2 Hear the comparison words", "Stage3 Listen and reproduce one note", "Stage4 Compare and choose the next step", "Stage5 Record and finish"]
@@ -65,6 +65,8 @@ The numbers order the bank, not voice types or achievement levels. This small se
 1. Without singing, play A3 twice using the table: the second sound has the same pitch. Then play A3 followed by E4: the second is higher. Reverse those files: the second is lower. Replay only as needed; these are large, obvious examples, not a fine-hearing test.
 2. Play A2 then A3. The second is an octave higher. Both names contain A, but they are not a same-height match. You are not asked to sing this octave leap.
 3. If the examples do not sound clearly distinguishable, mark **comparison uncertain**. You may make one comfortable vocal attempt later, but do not invent a direction or repeatedly correct something you cannot judge. Listening only and finishing with uncertainty is also acceptable.
+
+The [Pitch relationships Model](../models/pitch-relationships.md) explains the comparison: A3 and A4 share class A, but A4 is twelve semitones above A3. A unison task needs the same height; a shared letter or a similar rise-and-return contour is insufficient. This explanation adds no new vocal attempt.
 
 When comparing your attempt below, higher and lower will mean **your voice relative to the reference**. Tone colour or loudness differences alone do not answer that question.
 

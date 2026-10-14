@@ -1,21 +1,15 @@
-Use case: infographic-diagram
-Asset type: high-quality whole-subject overview for a beginner Singing Body of Knowledge Outline, embedded in Markdown and reused in its README.
-Primary request: Create one polished educational overview showing ALL TEN subject areas together. Premium music-education book illustration, warm ivory paper, deep navy typography, restrained teal, soft blue and amber, delicate ink and watercolor icons. Landscape 1536x1024 or similarly generous resolution. Large crisp readable text at normal document width; generous space; wrap long headings instead of shrinking them. Ten equal cards in two columns of five. One small subject-relevant illustration per card; text dominates. No numbered stages or connecting arrows. No extra text, slogans, logos, badges, progress claims, exercise notation, lyrics, anatomical diagrams, required vocal ranges or posture prescriptions.
-Title: "Singing"
-Subtitle: "Body of Knowledge Outline"
-Purpose line: "Understand singing · Learn a suitable song · Make informed practice choices"
-Card headings exactly, in row-major order:
-"Voice production and breathing"
-"Vocal care and comfortable use"
-"Listening, pitch and intonation"
-"Beat, rhythm and meter"
-"Resonance and vocal timbre"
-"Registers, range and transitions"
-"Articulation, vowels and diction"
-"Notation and sight singing"
-"Songs, phrasing and performance"
-"Practice, feedback and skill development"
-Only the Notation and sight singing card has the small explicit label "Optional reading branch".
-Icons: relaxed singer silhouette with a flowing ribbon; water glass and pause motif; ear with abstract rising and falling sound line; metronome; layered abstract sound ribbons; keyboard with no range labels; mouth silhouette and blank text page; decorative music stand; a small singer with accompanist; notebook and headphones. Motifs are decorative, not instructions or measured evidence.
-Footer: "Selected beginner coverage · Topics overlap · Not a lesson sequence"
-Keep all ten headings equally visible. This overview summarizes areas, not every subtopic. No additional panels or tiny label lists. Opaque background.
+Use case: scientific-educational.
+Create a polished high-resolution landscape 4:3 educational infographic for a Markdown knowledge outline. Warm ivory paper, restrained teal and gold watercolor accents, navy text, elegant but exceptionally readable typography, ample whitespace. Small schematic illustrations only: no anatomical cutaways, clinical claims, exercises, staff notation or scores. No decorative slogans, no invented words, no watermark. All supplied text must be accurate. All topic cards have equal visual status: no category headings, parent panels, group borders, shared-topic band, or nested hierarchy. Connections are explanatory interfaces, not a pipeline or lesson order.
+Title: "Singing Body of Knowledge"
+Subtitle: "Topics and selected interfaces"
+A balanced 4-column by 6-row grid of exactly 24 equal peer cards. Each card has its exact title and a small tasteful watercolor icon; no descriptions inside these overview cards. Use large labels, wrapping long titles as needed.
+Row 1: "Respiration" | "Phonation" | "Vocal tract resonance" | "Articulation"
+Row 2: "Pitch relationships" | "Rhythmic organisation" | "Metrical organisation" | "Tonal organisation"
+Row 3: "Text setting" | "Auditory vocal pitch matching" | "Vocal instrument and individual variation" | "Vocal care and comfortable use"
+Row 4: "Registration" | "Range and tessitura" | "Voice classification" | "Diction and meaning"
+Row 5: "Dynamics and vibrato" | "Repertoire selection" | "Phrasing" | "Style and musical context"
+Row 6: "Singing with others and presenting" | "Melody harmony and musical form" | "Learning and feedback" | "Notation and sight singing"
+Only final card has a small badge "Optional". Its title must remain equal in prominence.
+Draw only three fine undirected connectors between neighboring cards: Respiration to Phonation; Vocal tract resonance to Articulation; Rhythmic organisation to Metrical organisation. Keep lines in gaps, never through text. These are representative connections, not all relationships.
+Footer: "Lines show selected interfaces. See the outline for scope, examples and gaps."
+No additional legends or words. No numbering. Do not label rows or columns. Keep all 24 titles fully legible.
