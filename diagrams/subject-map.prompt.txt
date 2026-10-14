@@ -1,0 +1,31 @@
+Use case: infographic-diagram.
+Asset type: a premium illustrated overview for the Singing KPS README and its written singing subject map. Generate one finished wide landscape image, approximately 16:9, at the highest available resolution and quality. It must be beautiful, inviting and exceptionally readable at repository-page width.
+
+Visual direction: sophisticated editorial educational illustration, consistent with a family of knowledge-library overview graphics: warm white background, dark navy typography, restrained teal with small warm musical accents, fine ink outlines, subtle hand-painted shading. Elegant clear silhouettes and generous white space. Precise professional typography, not a stock icon collage or software dashboard. Render the graphic itself, not a poster or device mockup.
+
+Composition: large title at top "Singing KPS", smaller subtitle "Subject map". Exactly ten equally valid topic panels, five neatly stacked on either side of a compact central illustration, with clear separation and balanced two-line heading wraps. The central illustration shows one adult beginner at ease, gently humming, relaxed shoulders, natural proportion and calm expression, surrounded by a few abstract sound curves. This is an illustrative identifier for singing, not a demonstration of correct posture, vocal anatomy or a prescribed technique. Keep the person modest in scale so the ten topic labels remain visually dominant.
+
+Each topic gets a distinct, tasteful miniature illustration plus its exact heading, with no supporting paragraphs. All headings must be large, clear and fully readable. Topic labels, in this reading order, are:
+"Voice production & breathing" — abstract air and sound motif, no anatomical cutaway.
+"Vocal health & comfortable use" — a quiet rest symbol and gentle sound curve, no medical certification.
+"Listening, pitch & intonation" — ear outline with an abstract rising and returning pitch contour, no measurements.
+"Beat, rhythm & meter" — an elegant rhythmic pattern of dots and rests.
+"Resonance & vocal timbre" — layered abstract sound curves in contrasting warm and cool tones.
+"Registers, range & transitions" — overlapping abstract pitch bands, no numbers or assigned voice type.
+"Articulation, vowels & diction" — tasteful speech bubble motif with abstract sound marks, no invented words.
+"Musical notation & sight singing" — a small open score with simple coherent music notation, decorative rather than an exercise.
+"Songs, phrasing & expression" — an expressive flowing musical phrase motif.
+"Practice, feedback & skill development" — a small notebook and listening motif, no charts, scores or achievement badge.
+
+Relationships: thin, quiet non-directional associations may connect panels to the shared central singing illustration. Do not use arrowheads, numbered steps, a spiral curriculum, progress bars or causal arrows. Connections should stay clear of text. This is a subject overview with useful overlap, not a mandatory practice sequence.
+
+At bottom, in a distinct, spacious readable strip, print exactly:
+"Current beginner task: voice comfort • pitch direction • beat • short humming pattern"
+Below it, print:
+"The wider outline includes partial coverage and gaps."
+Final small but clearly readable line:
+"Connected subjects, not a lesson sequence"
+
+Text constraints: reproduce quoted text exactly, with correct English spelling. No duplicated or missing subjects, no extra invented captions. Wrap long headings naturally into two or three lines. Keep text comfortably within margins and use strong contrast. Do not let decorative detail compete with labels.
+
+Avoid: technical medical diagrams, forced vocal effort, microphone or studio-equipment requirements, extreme notes, gender-based range categories, performance guarantees, marks or rankings, external organization logos, five-role file trees, fabricated data, tiny illegible text and excessive connector lines. Original opaque-background illustration.
