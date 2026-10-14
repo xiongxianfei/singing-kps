@@ -1,6 +1,6 @@
 ---
 language: "KPS 9.x"
-package_version: "0.1.0"
+package_version: "0.2.0"
 status: "draft"
 reviewed: null
 ---
@@ -15,7 +15,7 @@ Define the knowledge a beginner needs to understand singing, learn a suitable so
 
 This outline specifies intended coverage across voice function, musicianship, words, performance and learning. It adapts established subject structures to a beginner-facing project, then maps existing explanations and gaps against concrete learning outcomes. The ten areas and their subdivisions are our selected organisation, not a universal singing taxonomy or an examination syllabus.
 
-The implemented package still contains three Concepts and [First singing session](../practices/first-singing-session.md): comfortable voice awareness, pitch direction, beat and a short humming task. The broader outcomes below describe future coverage, not lessons already supplied or competence already demonstrated. Concepts, Principles, Models, Methods and Practices remain the knowledge roles; several topics may share an explanation.
+The implemented package contains four Concepts, a comparison Method, a proposed functional Model and two Practices: [First singing session](../practices/first-singing-session.md) and [Match a reference pitch](../practices/match-a-reference-pitch.md). The latter adds selectable reference audio, octave-aware comparison and explicit uncertainty for one short note. The broader outcomes below describe future coverage, not lessons already supplied or competence already demonstrated. Concepts, Principles, Models, Methods and Practices remain the knowledge roles; several topics may share an explanation.
 
 ## Overall outline
 
@@ -69,6 +69,8 @@ The existing [starting conditions](../practices/first-singing-session.md#startin
 
 On 2026-10-14 the NATS syllabus text, the identified Trinity passages and relevant NIDCD HTML sections were rechecked. Fresh access to the Open Music Theory notation and sight-singing chapters failed; their contributions rely on the recorded 2026-10-13 inspection. No new inspection of linked textbooks, scores, recordings or learner performances is claimed.
 
+For the reference-pitch task, the [ASPN chapter](../references/open-music-theory-undated-aspn.md) was inspected through its credited republication, and [UNSW note frequencies](../references/wolfe-undated-note-frequencies.md) supplied the tuning equations. [Blanco 2021](../references/blanco-2021-pitch-matching-feedback.md) supplies a reference-replay procedure and feedback-condition evidence; [Pfordresher 2015](../references/pfordresher-2015-singing-accuracy-framework.md), including Figure 1, supplies a proposed functional account. These additional 2026-10-14 inspections do not establish the effectiveness of our ear-only adaptation. Reference records retain the actual inspected extent and limitations.
+
 NATS addresses future teachers, while Trinity addresses assessment and Open Music Theory supplies musical foundations. Their purposes differ. The following scope selects and combines subjects for learning to sing; it does not transfer professional qualifications or exam expectations to beginners. Detailed mechanisms, disputed terminology and future exercises still require claim-specific evidence.
 
 ## Reading the coverage tables
@@ -96,10 +98,10 @@ Each row defines a topic, the knowledge it needs and an expected outcome before 
 
 | Topic | Required coverage | Expected depth | Existing explanations and gaps |
 |---|---|---|---|
-| Pitch direction and contour | Higher, lower, repeated pitches and melodic shape | Describe a heard rise and return separately from whether either note matched a target. | **Partial:** [Pitch](../concepts/pitch.md) and [pitch-direction task](../practices/first-singing-session.md#stage2-explore-pitch-direction). Broader listening examples missing. |
-| Reference-pitch matching | Intended pitch, an external reference, octave placement and comparison | Explain the difference between following a contour and matching a reference; identify what comparison evidence is needed. | **Missing:** no local matching lesson or demonstrated matching result. The current humming task does not supply one. |
-| Intervals and tonal context | Relationships between pitches, musical patterns and a tonal reference in the selected repertoire | Identify a repeated or changed melodic relationship and explain how context helps anticipate a note. | **Source only:** [Trinity sight-reading context](../references/trinity-2026-singing-syllabus.md). Interval and tonal explanations need development. |
-| Intonation and listening feedback | Intended versus produced pitch, sustained or changing notes, and uncertainty in auditory or device feedback | Describe where a phrase differs from its reference without reducing its musical quality to one pitch score. | **Missing:** a local account of intonation and feedback limitations. |
+| Pitch direction and contour | Higher, lower, repeated pitches and melodic shape | Describe a heard rise and return separately from whether either note matched a target. | **Partial:** [Pitch](../concepts/pitch.md) and [pitch-direction task](../practices/first-singing-session.md#stage2-explore-pitch-direction). The added audio examples contrast same, higher, lower and octave-related notes; subtle discrimination and broader melodic examples remain partial. |
+| Reference-pitch matching | Intended pitch, an external reference, octave placement and comparison | Explain the difference between following a contour and matching a reference; identify what comparison evidence is needed. | **Partial:** [Match a reference pitch](../practices/match-a-reference-pitch.md), the [comparison Method](../methods/reference-pitch-comparison.md) and selectable reference audio supply a single-note task. Independent matching results and broader transfer are not demonstrated. |
+| Intervals and tonal context | Relationships between pitches, musical patterns and a tonal reference in the selected repertoire | Identify a repeated or changed melodic relationship and explain how context helps anticipate a note. | **Partial:** [Pitch](../concepts/pitch.md) explains unison and octave placement with listening examples. Other intervals and tonal context still need development; [Trinity](../references/trinity-2026-singing-syllabus.md) supplies assessment context only. |
+| Intonation and listening feedback | Intended versus produced pitch, sustained or changing notes, and uncertainty in auditory or device feedback | Describe where a phrase differs from its reference without reducing its musical quality to one pitch score. | **Partial:** [Intonation](../concepts/intonation.md), the [comparison Method](../methods/reference-pitch-comparison.md) and [auditory vocal Model](../models/auditory-vocal-pitch-matching.md) distinguish target, output and uncertainty. Phrase-level, expressive and context-dependent intonation remain unimplemented. |
 
 ## Beat rhythm and meter
 
@@ -154,16 +156,18 @@ Each row defines a topic, the knowledge it needs and an expected outcome before 
 
 | Topic | Required coverage | Expected depth | Existing explanations and gaps |
 |---|---|---|---|
-| Choosing a practice task | A specific learning question, prerequisites and a manageable task | Name one aspect to work on and explain why the chosen task addresses it. | **Partial:** [First singing session](../practices/first-singing-session.md). Wider task-selection guidance missing. |
+| Choosing a practice task | A specific learning question, prerequisites and a manageable task | Name one aspect to work on and explain why the chosen task addresses it. | **Partial:** [First singing session](../practices/first-singing-session.md) and [Match a reference pitch](../practices/match-a-reference-pitch.md) distinguish contour/timing from a single external target. Wider task-selection guidance is missing. |
 | Separating and combining skills | Pitch, timing and text demands; moving from a component to a phrase | Identify an interfering demand and explain how a simpler task relates to the whole song. | **Partial:** [Combine and review](../practices/first-singing-session.md#stage4-combine-and-review), supported by the sight-singing Reference. Song-level examples missing. |
-| Observations and recording limits | Listening notes, teacher feedback, recording conditions, privacy and measurement uncertainty | Separate what was heard or felt from its interpretation and explain what a recording cannot establish. | **Partial:** the Practice's observation checklist. Recording and analysis explanations missing. |
-| Retention and transfer | Revisiting a skill, changes of context, dependence on cues and progress over time | Distinguish one successful attempt from repeatable use in a different suitable phrase. | **Source only:** NATS learning topic. Local learning mechanisms and longitudinal evidence missing; no improvement result is claimed. |
+| Observations and recording limits | Listening notes, teacher feedback, recording conditions, privacy and measurement uncertainty | Separate what was heard or felt from its interpretation and explain what a recording cannot establish. | **Partial:** [Reference pitch comparison](../methods/reference-pitch-comparison.md) supplies optional same-device recording, octave-aware visual cross-checks, privacy and uncertainty. This is not a complete acoustic-analysis or recording course. |
+| Retention and transfer | Revisiting a skill, changes of context, dependence on cues and progress over time | Distinguish one successful attempt from repeatable use in a different suitable phrase. | **Partial:** the [matching Practice](../practices/match-a-reference-pitch.md) distinguishes one report from repeatability; [Blanco 2021](../references/blanco-2021-pitch-matching-feedback.md) records condition-specific short transfer. Longitudinal learner evidence and song-level transfer remain missing; no improvement result is claimed. |
 
 ## Connections and scope boundaries
 
 Learning a short song can require listening, timing, words, vocal coordination and interpretation together. A missed entry could involve rhythm, text preparation or the cue being followed; its location in a song does not determine its cause. The outline keeps these subjects distinguishable while allowing a Practice to combine them for a particular question.
 
 The existing first session illustrates a smaller combination: voice production explains the sound, pitch explains its intended contour, and beat/rhythm explains timing. These remain separate observations in the Practice. Its rise-and-return task establishes neither accurate pitch matching nor competence in reading or performing a song.
+
+The new matching Practice adds one external target, replay and a provisional comparison; its [functional Model](../models/auditory-vocal-pitch-matching.md) separates hearing from producing and adjusting. Neither an approximately matching report nor a successful asset check establishes general singing competence.
 
 The required coverage above is a selected beginner foundation. Clinical diagnosis and rehabilitation, professional teacher preparation, comprehensive anatomy or acoustics, advanced range development, specialised belt/distortion/extended techniques, professional production, and exhaustive coverage of vocal traditions are outside this edition. Teacher-supported exploration is not replaced by generic self-instruction. Age-specific training and specialised styles need their own scope and sources before procedures are added.
 

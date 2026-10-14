@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "origin": "Original mathematical synthesis; no voice or third-party samples",
+  "tuning": "12-tone equal temperament; A4 = 440 Hz",
+  "source_sample_rate_hz": 16000,
+  "channels": 1,
+  "encoding": "MP3; libmp3lame; 16 kbit/s",
+  "source_tone_seconds": 1.6,
+  "linear_fade_seconds": 0.05,
+  "harmonic_amplitudes": [
+    0.14,
+    0.042,
+    0.021
+  ],
+  "duration_note": "MP3 encoder padding may extend playback beyond source tone duration",
+  "encoder_version": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "assets": [
+    {
+      "file": "a2.mp3",
+      "midi": 45,
+      "frequency_hz": 110.0,
+      "sha256": "ee66968543ed6a3527cffe789816185672425cb3fa59903b488529f11a373ae8"
+    },
+    {
+      "file": "c3.mp3",
+      "midi": 48,
+      "frequency_hz": 130.8127826502993,
+      "sha256": "329b02a594f6800b2fb4f6fa8f082956a977db28f1c72334288e5639577fdd03"
+    },
+    {
+      "file": "e3.mp3",
+      "midi": 52,
+      "frequency_hz": 164.81377845643496,
+      "sha256": "e61c1fe9f423dfe088e921d83fd882d0c6e5a171d918ff648acc591d4827c377"
+    },
+    {
+      "file": "a3.mp3",
+      "midi": 57,
+      "frequency_hz": 220.0,
+      "sha256": "b52de2d06be47107a3071271cc29b7cdc37b59ee6fa89eec9b0902993311fff0"
+    },
+    {
+      "file": "c4.mp3",
+      "midi": 60,
+      "frequency_hz": 261.6255653005986,
+      "sha256": "95d94e1ce25b8f504e7140dfc347d952ae57d525fd13e8bdc212122a926c9dfd"
+    },
+    {
+      "file": "e4.mp3",
+      "midi": 64,
+      "frequency_hz": 329.6275569128699,
+      "sha256": "48c6accba0e8b834f811d997e2eda78ba5e4665b731a18f721e5704013e687ff"
+    },
+    {
+      "file": "a4.mp3",
+      "midi": 69,
+      "frequency_hz": 440.0,
+      "sha256": "872b9af08b5610ef6f1bc8afd99781d44181f2662ee277c03f1fd5922e8fe7f0"
+    }
+  ]
+}
