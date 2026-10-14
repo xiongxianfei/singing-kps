@@ -17,7 +17,7 @@ These instructions apply repository-wide to knowledge, code, tools and workflows
 
 ## Project purpose
 
-Help beginners understand singing and undertake a comfortable, observable first task. Use the [subject map](docs/subject-map.md) for topics, relationships and coverage gaps; use [First singing session](practices/first-singing-session.md) for activity order and entry conditions. The wider outline does not expand the implemented beginner scope or certify a singer's competence.
+Help beginners understand singing and undertake a comfortable, observable first task. Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) for required topics, depth, relationships and coverage gaps; use [First singing session](practices/first-singing-session.md) for activity order and entry conditions. The wider outline does not expand the implemented beginner scope or certify a singer's competence.
 
 ## Core Engineering Principles
 
@@ -43,7 +43,7 @@ Help beginners understand singing and undertake a comfortable, observable first 
 
 - Follow the [pinned Core authoring contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/6a6e7aedc24581769fad435f4943856c1060e02a/docs/authoring.md), [README](README.md) and [publication metadata](publication.json). Retain KPS 9.x, the declared steps-first format and the current checker pin unless a compatibility change is explicitly part of the task.
 - Reuse established subject structure for the target Practice. Preserve the five primary knowledge roles and useful explanatory overlap. References are publication records. Empty role folders are acceptable; do not manufacture objects to fill them.
-- Maintain the subject map as authored navigation. Keep topic meaning, connections, existing explanations and gaps in the same row. Practices own their learning activities and prerequisites. A syllabus is evidence for an outline, not proof of an exercise's effectiveness.
+- Maintain the authored Body of Knowledge Outline from established accounts and intended Practices. Define required coverage and expected depth before mapping existing explanations and gaps. Retain required topics without local documents and explain important connections. Practices own their learning activities and prerequisites. A syllabus is evidence for an outline, not proof of an exercise's effectiveness.
 - Inspect sources for changed claims and record the exact passage and access extent. Separate source statements, authored adaptations, synthetic examples and actual learner observations. Preserve terminology, musical tradition and style limits; Western notation is not universal. Do not invent source inspection, recording analysis, session results, clinical clearance or independent review.
 - Preserve the [Practice starting conditions](practices/first-singing-session.md#starting-conditions) and [voice-care evidence](references/nidcd-2025-taking-care-of-your-voice.md). Do not diagnose disorders, prescribe rehabilitation or encourage singing through pain, hoarseness or fatigue. Comfort observations do not establish medical safety. Changes to vocal procedures need evidence and appropriate human judgment; structural checks do not supply it.
 - Keep essential rationale, action, observation and fallback inline in `StageN` stages. A contour task is not an assessment of accurate pitch matching. Preserve an explicitly blank current summary until a real session supplies observations.
@@ -66,4 +66,4 @@ For guidance and navigation edits, also check local link targets, heading fragme
 
 ## Contribution workflow
 
-Inspect branch, status and existing work before editing. Keep a change focused and reviewable; use one branch and one PR to `main` for a requested publication. Follow the user's existing authorization without inventing approval, merges or releases. Preserve unrelated work and avoid force-rewriting shared history. Write new text in LF and keep unrelated line-ending changes out of the patch. Do not change knowledge, checker pins or dependency snapshots as a side effect of a navigation update. Keep the subject map and this file as maintained Markdown; no generator is needed.
+Inspect branch, status and existing work before editing. Keep a change focused and reviewable; use one branch and one PR to `main` for a requested publication. Follow the user's existing authorization without inventing approval, merges or releases. Preserve unrelated work and avoid force-rewriting shared history. Write new text in LF and keep unrelated line-ending changes out of the patch. Do not change knowledge, checker pins or dependency snapshots as a side effect of a navigation update. Keep the coverage outline and this file as maintained Markdown; no generator is needed.

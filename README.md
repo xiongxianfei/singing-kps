@@ -14,9 +14,11 @@ Begin with one comfortable, observable singing task rather than memorising an en
 
 Singing KPS is an independent, source-linked beginner learning package using the Knowledge Practice System authoring language 9.x and the inspected Core 11.0.0 conventions. It begins with one short humming and rhythm exercise. No musical notation, prior training, fixed vocal range or performance experience is assumed.
 
-![Singing subject map connecting voice production and breathing, vocal health, listening and pitch, rhythm and meter, resonance and timbre, registers and range, articulation and diction, notation and sight singing, songs and expression, and practice and feedback](diagrams/subject-map.png)
+![Singing coverage, part 1: voice production, care, listening, rhythm and timbre, with their required topics.](diagrams/body-of-knowledge-outline-foundations.png)
 
-The illustration previews the [subject map](docs/subject-map.md). The wider outline includes partial coverage and gaps; the current package supports a first beginner task.
+![Singing coverage, part 2: registers, diction, notation, performance and practice, with their required topics.](diagrams/body-of-knowledge-outline-musical-practice.png)
+
+The illustrations summarise the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md): ten areas and 34 topics with required coverage, expected depth and current gaps. The current lessons support a first beginner task; the outline defines the broader knowledge to develop.
 
 ## Start here
 
@@ -24,9 +26,9 @@ Read [First singing session](practices/first-singing-session.md). It offers a ge
 
 Do not practise through pain, hoarseness, illness-related voice changes or persistent vocal fatigue. The [NIDCD voice care guidance](references/nidcd-2025-taking-care-of-your-voice.md) identifies warning signs and when to seek professional help.
 
-## Knowledge map
+## Knowledge coverage
 
-Explore the [singing subject map](docs/subject-map.md) for the wider subject outline, connections, current explanations and gaps. It provides orientation; the Practice supplies the activity sequence. This initial package currently includes:
+Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) to understand what this subject needs to cover and how deeply. Required topics stay visible even when no local explanation exists. The Practice supplies activity order and entry conditions. This initial package currently includes:
 
 - [Voice production](concepts/voice-production.md) explains how voiced sound is generated and shaped.
 - [Pitch](concepts/pitch.md) explains higher and lower sounds without requiring note names.

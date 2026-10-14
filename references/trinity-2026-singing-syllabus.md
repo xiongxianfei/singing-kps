@@ -23,12 +23,12 @@ The syllabus connects vocal technique with musical and performance skills.
 
 ## Summary
 
-The [March 2026 online edition](https://trinitycollege.com/resource/?id=7929) supports the musical scope of the [singing subject map](../docs/subject-map.md). Its assessment framework is not adopted as our curriculum.
+The [March 2026 online edition](https://trinitycollege.com/resource/?id=7929) supports the musical scope of the [Singing Body of Knowledge Outline](../docs/body-of-knowledge-outline.md). Its assessment framework is not adopted as our curriculum.
 
 ## Located contribution
 
-Pages 25-26 distinguish technical work involving pitch, tone, rhythm, diction and expressive song. Page 39 separates performance accuracy, vocal control and interpretation. Page 69 relates sight reading to intervals, rhythm and sung music. These distinctions inform the map's musical subjects.
+Pages 25-26 distinguish technical work involving pitch, tone, rhythm, diction and expressive song. Page 39 separates performance accuracy, vocal control and interpretation. Page 69 relates sight reading to intervals, rhythm and sung music. These distinctions inform the outline's musical subjects.
 
 ## Adaptation and limits
 
-The map groups song phrasing under interpretation as an authored choice. It does not copy exercises, grading rubrics or repertoire, claim qualification equivalence, or establish an optimal beginner sequence. Only the identified passages were inspected; no accompanying recordings, books or complete repertoire review is claimed. Source authority concerns Trinity's assessment design, not medical clearance or measured effectiveness of Singing KPS.
+The outline groups song phrasing under interpretation as an authored choice. It does not copy exercises, grading rubrics or repertoire, claim qualification equivalence, or establish an optimal beginner sequence. Only the identified passages were inspected; no accompanying recordings, books or complete repertoire review is claimed. Source authority concerns Trinity's assessment design, not medical clearance or measured effectiveness of Singing KPS.
