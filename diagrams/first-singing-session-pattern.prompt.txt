@@ -1,0 +1,14 @@
+Use case: scientific-educational
+Asset type: high-quality illustrated teaching plate, landscape 3:2, high resolution, for Stage4 of a beginner singing session.
+Primary request: Make pitch direction and rhythm visibly distinct, then align them in one simple four-beat humming pattern. The learner should understand this without reading music.
+Style: exquisite restrained watercolor accents, warm ivory background, navy title and typography, muted teal sound markers and pale gold silence cue. Elegant serif title, clean sans-serif instructional text, meticulous aligned columns, generous whitespace, very readable at Markdown document width. Companion to an editorial watercolor singing lesson.
+Title exact: "Three hums, four beats"
+Subtitle exact: "Pitch tells you how high. Beats tell you when."
+Main teaching figure: four equally wide and equally spaced columns, labelled across the top exactly "Beat 1", "Beat 2", "Beat 3", "Beat 4". In a broad open area beneath these labels show exactly THREE equally sized filled teal circles: circle in column 1 at a comfortable low graphic height; circle in column 2 modestly above it; circle in column 3 exactly at the same height as circle 1. In column 4 place the WORD "silence" inside a pale gold rounded rectangle, visually distinct from all sound dots. Do NOT place a fourth sound circle there.
+Under each of the three circles put respectively "start", "slightly higher", "back". Beneath each put a separate short "mm" label. There must be empty space between the sounds, no connecting slope, continuous hum or glissando. No axes, exact frequencies, calibrated intervals, notes or stave. Do not enlarge the second circle: higher pitch is NOT louder.
+Along the bottom of the four columns, separated from the pitch area by whitespace, put a horizontal ROW labelled "Even taps" on the left. Show exactly four equally sized gold tick markers at the same vertical height, centered under beats 1, 2, 3 and 4 respectively. Under the row place exact sentence: "Keep tapping on beat 4; stay silent."
+Below the main figure add two spacious side-by-side illustrated guidance cards:
+Left card has a tiny watercolor hand tapping and title "If combining is difficult". Body exact: "Try pitch alone or tapping alone."
+Right card has an ear and a blank notebook, with title "After one attempt". Body exact: "Notice comfort, contour and timing."
+Bottom footer exact: "Use an easy pitch and ordinary volume. Rest after the pattern."
+Accuracy constraints: the three sound markers indicate direction only, not specific notes, fixed intervals or observed performance. Baseline start and back must align EXACTLY, all four beat columns must be equally spaced, the tap markers must align vertically below their matching columns. No anatomy, exaggerated singing, app requirement, audio waveform, musical notation, pitch score, success checkmarks or extra text. Attractive and clear, not a dense poster. No watermark.

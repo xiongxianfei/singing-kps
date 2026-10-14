@@ -1,0 +1,24 @@
+Use case: scientific-educational
+Asset type: high-quality illustrated teaching plate for a beginner singing Markdown lesson, landscape 3:2, high resolution.
+Primary request: Explain the four stages of a FIRST SINGING SESSION through a beautifully drawn, highly readable editorial watercolor infographic. A useful instructional picture, not merely a decorative cover.
+Style: refined hand-painted watercolor vignettes on warm ivory paper, precise navy typography, muted teal and pale gold accents, generous whitespace, elegant serif title and extremely readable clean sans-serif labels. Consistent with a sophisticated music-learning book. Natural adult learner, relaxed neck and shoulders, no performance pose or open-throat anatomical detail.
+Composition: title at top, four spacious numbered panels in a clear 2 by 2 reading order. Each panel has one meaningful illustration plus the exact short text below. Numbers 1 and 2 across top, 3 and 4 across bottom. Keep all labels large and legible at document width. No crowded small print.
+Exact title: "First singing session"
+Exact subtitle: "Comfort • Pitch direction • Rhythm • Reflection"
+Panel 1 title: "1  Check voice comfort"
+Panel 1 illustration: relaxed person at ordinary conversational posture, a tiny speech bubble followed by closed-lip gentle humming; no force or exaggerated breathing.
+Panel 1 text: "Speak normally. Try one gentle hum."
+Panel 1 smaller text: "Unsure or uncomfortable? Stop vocal work."
+Panel 2 title: "2  Explore pitch direction"
+Panel 2 illustration: three equal-sized separate teal circles, first low, second modestly higher, third same height as first, separated by whitespace; small ear/listening vignette. Do not connect the circles with a continuous line.
+Panel 2 text: "Start → slightly higher → back"
+Panel 2 smaller text: "Three short hums, with pauses."
+Panel 3 title: "3  Feel four beats"
+Panel 3 illustration: a natural hand tapping gently on a tabletop; beneath it four equally spaced beat markers numbered 1 2 3 4. Under each marker respectively place "la", "la", "la", "silence".
+Panel 3 smaller text: "Tap evenly. Speak on 1, 2 and 3."
+Panel 4 title: "4  Combine and review"
+Panel 4 illustration: learner looking at a blank notebook with an optional phone voice-recorder beside it; avoid fabricated results, checkmarks or a scored performance. Small thoughtful pause motif.
+Panel 4 text: "Hum the pattern over four beats."
+Panel 4 smaller text: "Notice comfort, pitch direction and timing."
+Footer exact text in a quiet cream ribbon: "Separate the parts if needed. Rest after the pattern."
+Accuracy constraints: no musical staff, note names, fixed intervals, mandatory app, microphone requirement, therapeutic claims, success score or range extension. Closed lips when humming. Pitch height must not be shown as louder volume. The fourth beat is silence, not a fourth sung note. All text exactly as supplied, no additional labels. Crisp rendering, no watermark.
