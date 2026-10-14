@@ -2,23 +2,52 @@
   "format": 1,
   "meaning": "Declared/direct dependencies requiring human summary review after content changes; not proof of factual or semantic validity.",
   "entries": {
-    "concepts/voice-production.md": {
-      "practices/first-singing-session.md": "a5619906b6b4cb66aa88eb2ed162edada4c46eac46844f96c528b6305d86e2d1",
-      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93"
-    },
-    "concepts/pitch.md": {
-      "references/open-music-theory-undated-notation.md": "3ee21cc216256de01232dcebec71d5ab2756e688df47bbc46fa5f238091c74a3"
-    },
     "concepts/beat-and-rhythm.md": {
       "references/open-music-theory-undated-notating-rhythm.md": "141291840def4b2f94756aa136c793f95b05c2535d78d83e1d373cb84735ba19",
       "references/open-music-theory-undated-simple-meter.md": "1b3f2d8fdfa180821c1baa29052bdf6b8f342e4091a16c82ae5c99e1c6454efd"
     },
+    "concepts/intonation.md": {
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "references/blanco-2021-pitch-matching-feedback.md": "dbdc1eeb2f2e76938abb191b3853860147acbb87fc35dad1917a2f9920d44853",
+      "references/wolfe-undated-note-frequencies.md": "71c26ee4a2a493557a820c234a0998cb39c29b6b7ed86b30560c061fc4df2b23"
+    },
+    "concepts/pitch.md": {
+      "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
+      "references/open-music-theory-undated-aspn.md": "c7fca0b8c4ee074c8a7aa0ce9957134c67438c2e4ffbe2de6f043281111460ae",
+      "references/open-music-theory-undated-notation.md": "3ee21cc216256de01232dcebec71d5ab2756e688df47bbc46fa5f238091c74a3",
+      "references/wolfe-undated-note-frequencies.md": "71c26ee4a2a493557a820c234a0998cb39c29b6b7ed86b30560c061fc4df2b23"
+    },
+    "concepts/voice-production.md": {
+      "practices/first-singing-session.md": "a5619906b6b4cb66aa88eb2ed162edada4c46eac46844f96c528b6305d86e2d1",
+      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93"
+    },
+    "methods/reference-pitch-comparison.md": {
+      "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "practices/match-a-reference-pitch.md": "a9ec0ed5d8682dde659d53eac0f441dec64190ff35dfbe09fce5a97f5991f39a",
+      "references/blanco-2021-pitch-matching-feedback.md": "dbdc1eeb2f2e76938abb191b3853860147acbb87fc35dad1917a2f9920d44853",
+      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93"
+    },
+    "models/auditory-vocal-pitch-matching.md": {
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "references/pfordresher-2015-singing-accuracy-framework.md": "137e30177ef4b539bd2e92bda7917d3c2c546ec9fe2dc9661457ede3fa893288"
+    },
     "practices/first-singing-session.md": {
       "concepts/beat-and-rhythm.md": "1811ff6119c1d6252ee86734612795b2a135d466e321aa921f5899447cb526fe",
-      "concepts/pitch.md": "53859536f934e74a2659d03e6f2312c40ab91bc8d82be25da02cac94cf008fed",
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
       "concepts/voice-production.md": "7552245b4db24d976981fbcc70bc2917cad07914b6b1a1be7e0931cbb395f31c",
       "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93",
       "references/open-music-theory-undated-sight-singing.md": "6033922e7f0e190ae311bf51e819a80be100878960bf8050883383328e1a37b3"
+    },
+    "practices/match-a-reference-pitch.md": {
+      "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "methods/reference-pitch-comparison.md": "b44e3cc8f0f9c940b8ce6426ccf05384a19d2060c460a51375bbeb3d0f963b7c",
+      "models/auditory-vocal-pitch-matching.md": "72a7c81f2acb72fce11d5a04711826b2e3b28e4034bedc1321c4a7ef9a7cc4d2",
+      "references/blanco-2021-pitch-matching-feedback.md": "dbdc1eeb2f2e76938abb191b3853860147acbb87fc35dad1917a2f9920d44853",
+      "references/nats-undated-voice-pedagogy-syllabus.md": "c278259acc7829ab7c5f1de05dbd32e3b02fe19b942fa05da3baf322515d029b",
+      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93",
+      "references/trinity-2026-singing-syllabus.md": "7055500c3d7995fbdd359560ffabe0fbec46d15ed93d225d6b47ad62b819cad8"
     }
   }
 }
