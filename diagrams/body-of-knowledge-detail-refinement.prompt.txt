@@ -1,0 +1,20 @@
+Generation mode: built-in imagegen edits
+
+Input: body-of-knowledge-outline-foundations.png
+
+Edit the supplied Singing Body of Knowledge Coverage outline 1 of 2 image. Keep its panel layout, illustrations, all 17 topic labels, numbers 01–05, palette and typography unchanged. Make only these text corrections:
+1. Replace panel 03 heading "Listening pitch and intonation" with "Listening, pitch and intonation".
+2. Replace panel 04 heading "Beat rhythm and meter" with "Beat, rhythm and meter".
+3. Replace the final footer sentence "Intended coverage. Current lessons cover only a first beginner task." with "Intended coverage; existing explanations and gaps are recorded in the outline."
+Preserve every other element as closely as possible. Keep the corrected heading and footer text crisp and legible; reflow only as needed within their existing regions. Do not add new subjects, topics, instructions or decorative text.
+
+Input: body-of-knowledge-outline-musical-practice.png
+
+Edit the supplied Singing Body of Knowledge Coverage outline 2 of 2 image. Keep its panel layout, illustrations, all 17 topic labels, numbers 06–10, palette and typography unchanged. Make only these text corrections:
+1. Replace panel 06 heading "Registers range and transitions" with "Registers, range and transitions".
+2. Replace panel 07 heading "Articulation vowels and diction" with "Articulation, vowels and diction".
+3. Replace panel 09 heading "Songs phrasing and performance" with "Songs, phrasing and performance".
+4. Replace panel 10 heading "Practice feedback and skill development" with "Practice, feedback and skill development".
+5. Under the panel 08 heading "Notation and sight singing", add a small legible label "Optional reading branch". Keep all three topic labels.
+6. Replace the final footer sentence "Intended coverage. Current lessons cover only a first beginner task." with "Intended coverage; existing explanations and gaps are recorded in the outline."
+Preserve every other element as closely as possible, including the blank notebook in panel 10. Keep corrected headings and footer crisp and legible; reflow only within their existing regions as needed. Do not add new subjects, topics, instructions or decorative text.

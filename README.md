@@ -14,11 +14,9 @@ Begin with one comfortable, observable singing task rather than memorising an en
 
 Singing KPS is an independent, source-linked beginner learning package using the Knowledge Practice System authoring language 9.x and the inspected Core 11.0.0 conventions. It offers a first humming and rhythm exercise and a separate ear-first reference-pitch task. No musical notation, prior training, fixed vocal range or performance experience is assumed.
 
-![Singing coverage, part 1: voice production, care, listening, rhythm and timbre, with their required topics.](diagrams/body-of-knowledge-outline-foundations.png)
+![Ten connected areas of beginner singing knowledge, from voice production and listening to musical performance and skill development; notation and sight singing is an optional reading branch.](diagrams/body-of-knowledge-overview.png)
 
-![Singing coverage, part 2: registers, diction, notation, performance and practice, with their required topics.](diagrams/body-of-knowledge-outline-musical-practice.png)
-
-The illustrations summarise the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [overall outline](docs/body-of-knowledge-outline.md#overall-outline) to see all ten areas and 34 topics together, then follow the links for required coverage, expected depth and current gaps. [Open image 1](diagrams/body-of-knowledge-outline-foundations.png) or [image 2](diagrams/body-of-knowledge-outline-musical-practice.png) at full size. The current lessons support two limited beginner tasks; the outline defines the broader knowledge to develop.
+The overview summarises the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [complete topic outline](docs/body-of-knowledge-outline.md#overall-outline) to see all ten areas and 34 topics, then follow the coverage tables for required understanding, intended capabilities and gaps. The existing [detailed topic pictures](docs/body-of-knowledge-outline.md#optional-detailed-illustrations) remain optional supporting views. The current lessons support two limited beginner tasks; the outline defines the broader knowledge to develop.
 
 ## Start here
 
