@@ -17,9 +17,34 @@ This outline specifies intended coverage across voice function, musicianship, wo
 
 The implemented package still contains three Concepts and [First singing session](../practices/first-singing-session.md): comfortable voice awareness, pitch direction, beat and a short humming task. The broader outcomes below describe future coverage, not lessons already supplied or competence already demonstrated. Concepts, Principles, Models, Methods and Practices remain the knowledge roles; several topics may share an explanation.
 
+## Overall outline
+
+The complete selected scope is ten knowledge areas and 34 topics. This table shows what needs to be covered; follow an area to its required depth, existing explanations and gaps. Numbers identify areas, not a compulsory learning order.
+
+| Area | Topics to cover |
+|---|---|
+| 1. [Voice production and breathing](#voice-production-and-breathing) | The vocal instrument; body and breath coordination; phonation and sound continuity; individual and developing voices |
+| 2. [Vocal care and comfortable use](#vocal-care-and-comfortable-use) | Comfort and warning signs; vocal load and recovery; appropriate professional support |
+| 3. [Listening pitch and intonation](#listening-pitch-and-intonation) | Pitch direction and contour; reference-pitch matching; intervals and tonal context; intonation and listening feedback |
+| 4. [Beat rhythm and meter](#beat-rhythm-and-meter) | Pulse and tempo; durations and rests; meter and grouping |
+| 5. [Resonance and vocal timbre](#resonance-and-vocal-timbre) | Source and vocal-tract shaping; vowels and tone quality; dynamics and vibrato |
+| 6. [Registers range and transitions](#registers-range-and-transitions) | Register terminology; range and tessitura; transitions and coordination |
+| 7. [Articulation vowels and diction](#articulation-vowels-and-diction) | Vowels and consonants; pronunciation and meaning; text and musical timing |
+| 8. [Notation and sight singing](#notation-and-sight-singing) | Reading written pitch; reading rhythm and directions; from notation to sound |
+| 9. [Songs phrasing and performance](#songs-phrasing-and-performance) | Repertoire selection; phrasing and expression; style and musical context; singing with others and presenting |
+| 10. [Practice feedback and skill development](#practice-feedback-and-skill-development) | Choosing a practice task; separating and combining skills; observations and recording limits; retention and transfer |
+
 ## Illustrated coverage
 
+### Areas 1 to 5
+
+[Open the foundations illustration at full size](../diagrams/body-of-knowledge-outline-foundations.png).
+
 ![Singing coverage, part 1: voice production and breathing; vocal care; listening, pitch and intonation; beat, rhythm and meter; resonance and vocal timbre. Each area lists its required topics.](../diagrams/body-of-knowledge-outline-foundations.png)
+
+### Areas 6 to 10
+
+[Open the musical practice illustration at full size](../diagrams/body-of-knowledge-outline-musical-practice.png).
 
 ![Singing coverage, part 2: registers, range and transitions; articulation, vowels and diction; notation and sight singing; songs, phrasing and performance; practice, feedback and skill development. Each area lists its required topics.](../diagrams/body-of-knowledge-outline-musical-practice.png)
 

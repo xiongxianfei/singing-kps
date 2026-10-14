@@ -18,7 +18,7 @@ Singing KPS is an independent, source-linked beginner learning package using the
 
 ![Singing coverage, part 2: registers, diction, notation, performance and practice, with their required topics.](diagrams/body-of-knowledge-outline-musical-practice.png)
 
-The illustrations summarise the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md): ten areas and 34 topics with required coverage, expected depth and current gaps. The current lessons support a first beginner task; the outline defines the broader knowledge to develop.
+The illustrations summarise the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [overall outline](docs/body-of-knowledge-outline.md#overall-outline) to see all ten areas and 34 topics together, then follow the links for required coverage, expected depth and current gaps. [Open image 1](diagrams/body-of-knowledge-outline-foundations.png) or [image 2](diagrams/body-of-knowledge-outline-musical-practice.png) at full size. The current lessons support a first beginner task; the outline defines the broader knowledge to develop.
 
 ## Start here
 
