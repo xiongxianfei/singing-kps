@@ -22,6 +22,8 @@ Do not practise through pain, hoarseness, illness-related voice changes or persi
 
 ## Knowledge map
 
+Explore the [singing subject map](docs/subject-map.md) for the wider subject outline, connections, current explanations and gaps. It provides orientation; the Practice supplies the activity sequence. This initial package currently includes:
+
 - [Voice production](concepts/voice-production.md) explains how voiced sound is generated and shaped.
 - [Pitch](concepts/pitch.md) explains higher and lower sounds without requiring note names.
 - [Beat and rhythm](concepts/beat-and-rhythm.md) separates the pulse from durations and silence.
@@ -34,5 +36,7 @@ The Principles, Models and Methods directories are intentionally empty in this i
 The external References record what was inspected and what the sources do not establish. The exercise order, three-note pattern and feedback checklist are authored KPS applications; they are not a clinically validated protocol or a guarantee of singing improvement. This repo does not assess voice disorders or replace personalised instruction.
 
 ## Compatibility
+
+For repository work, follow [Agent guidance](AGENTS.md), including the shared Core Engineering Principles and the pinned validation procedure.
 
 The package targets [KPS Core 11.0.0](https://github.com/xiongxianfei/knowledge-practice-system) and the KPS 9.x authoring format. Its metadata is in [publication.json](publication.json). GitHub Actions runs the structural KPS 9.1.0 validator from a pinned upstream commit. A passing structural check does not establish medical safety, factual correctness or learning effectiveness.
