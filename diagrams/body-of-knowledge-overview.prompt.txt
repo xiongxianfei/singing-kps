@@ -1,0 +1,26 @@
+Generation mode: built-in image_gen
+Output: body-of-knowledge-overview.png
+
+Use case: infographic-diagram
+Asset type: premium educational overview illustration embedded at the top of a beginner singing body-of-knowledge outline.
+Primary request: Create one beautifully composed, highly legible landscape 3:2 illustrated editorial infographic showing all ten singing knowledge areas together. Warm ivory background, deep navy typography, muted teal and blue, restrained amber accents. Fine ink and soft watercolour illustrations, polished music-education book aesthetic. Generous whitespace, exceptionally readable typography. Opaque background.
+Composition: Title and subtitle at top. Ten equally important numbered topic cards in a two-column by five-row layout, numbered 01–05 down the left and 06–10 down the right. Each card has a small tasteful illustration beside a large exact heading, with natural line wrapping. Small illustrations take no more than one quarter of a card. A clean full-width target strip underneath connects the subject to the learning purpose. No arrows or implied lesson sequence. All ten headings must appear exactly once. A small readable footer.
+Text verbatim:
+Title: "Singing Body of Knowledge"
+Subtitle: "Beginner foundation • 10 connected areas"
+01: "Voice production and breathing"
+02: "Vocal care and comfortable use"
+03: "Listening, pitch and intonation"
+04: "Beat, rhythm and meter"
+05: "Resonance and vocal timbre"
+06: "Registers, range and transitions"
+07: "Articulation, vowels and diction"
+08: "Notation and sight singing"
+Under heading 08 only, add smaller text: "Optional reading branch"
+09: "Songs, phrasing and performance"
+10: "Practice, feedback and skill development"
+Target strip label: "Learning target"
+Target strip text: "Understand singing • Learn a suitable song • Make informed practice choices"
+Footer: "Intended coverage • Numbers identify areas, not lesson order"
+Illustrations: 01 relaxed singer profile with flowing sound ribbon; 02 water glass and pause symbol; 03 ear and small sound wave; 04 metronome; 05 delicate layered sound waves; 06 gently arcing tonal ribbons; 07 speech bubbles and simple letter shapes; 08 music stand with decorative abstract notation; 09 singer and small piano; 10 notebook and headphones.
+Constraints: Subject headings are the main visual focus. No tiny topic lists, extra words, branding, watermark, badges, progress charts, range prescriptions, anatomical cutaways, posture instructions or copied scores. Artwork identifies subjects, never prescribes technique. No text overlaps artwork. Keep every heading complete and readable; especially the long headings 07 and 10.
