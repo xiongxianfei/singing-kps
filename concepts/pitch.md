@@ -1,40 +1,55 @@
 ---
 id: "sing:concept:pitch"
 type: "concept"
-version: "0.1.0"
+version: "0.2.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
-references: ["sing:reference:omt-notation"]
-source_alignment: [{"reference":"sing:reference:omt-notation","relation":"definition-paraphrase","locator":"Key Takeaways and Clefs sections"}]
+references: ["sing:reference:omt-notation", "sing:reference:omt-aspn", "sing:reference:unsw-note-frequencies"]
+source_alignment: [{"reference": "sing:reference:omt-aspn", "relation": "definition-paraphrase", "locator": "American Standard Pitch Notation and Pitch versus Pitch Class; ASPN and Octave Designations"}, {"reference": "sing:reference:unsw-note-frequencies", "relation": "definition-paraphrase", "locator": "Opening explanation and frequency ratio equations"}]
 ---
 
 # Pitch
 
 ## Key takeaway
 
-Pitch is the quality by which we hear one musical tone as higher or lower than another.
+Pitch matching aims at the same pitch height as a reference, not just the same note letter, contour, loudness or tone colour.
 
 ## Summary
 
-A beginner can distinguish a note that stays the same from one that moves higher or lower without knowing note names. In common Western notation, higher pitches are written higher on the staff, and a higher fundamental frequency generally corresponds to a higher-sounding steady tone.
+Pitch is the heard higher or lower quality of a tone. A reference supplies a target to imitate; a rise and return only describes a contour. Octave-related notes share a pitch class but differ in pitch height. No notation reading or ability to name a note by ear is required to make these comparisons.
 
-## Meaning
+## Higher lower and contour
 
-For this introductory task, compare two reasonably steady voiced sounds:
+Compare the second sound with the first: **higher** means above it in pitch; **lower** means below it; **approximately the same** means no clear height difference is heard. A start, rise and return is a contour. It can have the intended shape while all three pitches differ from a target melody.
 
-- **Same** means they seem to have approximately the same pitch.
-- **Higher** means the second tone sounds above the first.
-- **Lower** means the second sounds below the first.
+Pitch is not volume or **timbre**, the tone colour that helps a voice sound different from a synthesizer. Do not try to copy the electronic tone quality or become louder to reach a higher pitch.
 
-Pitch is not loudness. A person can produce a quiet high note or a loud low note. Singing *in tune* with a reference means reproducing an intended pitch relationship accurately; simply noticing the direction of a change is a more modest first task.
+## Matching a reference
 
-## Example and limit
+A **reference pitch** is the external note selected as the target. **Matching** means aiming for that pitch height, including its octave. Keeping a target briefly in mind after playback is different from identifying an unknown note without any reference. The latter is not required here.
 
-A simple sung contour can be represented as **starting pitch, somewhat higher pitch, return toward starting pitch**. These are relationships, not named musical notes or a measured tuning assessment. If it is not clear which note is higher, repeat gently or ask a teacher to demonstrate rather than forcing your vocal range.
+A comfortable but different note is a valid observation, not a matching success. Change an unsuitable reference rather than forcing your voice; record that as a new target, not a correction of the old result. [Intonation](intonation.md) explains accuracy and the limits of judging it.
 
-The source treats Western staff notation. Its conventions are not a universal notation system, and the KPS humming exercise is our own beginner application.
+## Octaves and note labels
 
-## Source alignment
+An octave spans a doubling or halving of frequency. Frequency, in hertz (Hz), counts cycles per second. For the bundled equal-tempered sounds, A2 is 110 Hz, A3 is 220 Hz and A4 is 440 Hz. They share the letter A and pitch class but are three different heights. The number in this notation identifies the octave; it is not a difficulty level or a voice classification.
 
-[Open Music Theory Notation of Notes](../references/open-music-theory-undated-notation.md), Key Takeaways and Clefs. Relation: definition paraphrase with limits.
+A3 against A3 is a unison target. A4 against A3 is an octave higher: it may sound related, but it is not the same height. Octave singing can be musically appropriate in other tasks; this task asks for a unison. A device displaying only A cannot confirm the octave. Some tools use different octave labels, so compare the frequency when labels conflict.
+
+## Listening examples
+
+Play one file at a time and let it finish. These are optional listening examples, not notes everyone must sing.
+
+| Play in order | Intended relationship of the second sound to the first |
+|---|---|
+| [A3](../media/reference-pitches/a3.mp3), then the same file again | Same pitch |
+| [A3](../media/reference-pitches/a3.mp3), then [E4](../media/reference-pitches/e4.mp3) | Higher |
+| E4, then A3 using the links above | Lower |
+| [A2](../media/reference-pitches/a2.mp3), then A3 | An octave higher, not a unison |
+
+These conspicuous differences teach the words; they do not establish sensitivity to small tuning errors. An unclear comparison should remain **uncertain**.
+
+## Source alignment and limits
+
+[Open Music Theory ASPN](../references/open-music-theory-undated-aspn.md) distinguishes pitch from pitch class and labels octaves. [UNSW note frequencies](../references/wolfe-undated-note-frequencies.md) supplies the octave ratio and tuning calculation. The existing [notation record](../references/open-music-theory-undated-notation.md) supports higher and lower staff positions. The examples and choice of A4 = 440 Hz are local applications, not universal musical tuning rules or evidence of a learner's ability.

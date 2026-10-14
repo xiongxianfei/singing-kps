@@ -19,3 +19,10 @@ jobs:
             https://raw.githubusercontent.com/xiongxianfei/knowledge-practice-system/6a6e7aedc24581769fad435f4943856c1060e02a/validate.py \
             --output /tmp/kps-validate.py
           python /tmp/kps-validate.py .
+      - name: Check bundled reference audio
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install --yes ffmpeg
+          fi
+          python tools/reference_audio.py

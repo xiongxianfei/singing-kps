@@ -1,0 +1,44 @@
+name: Build reviewed reference assets
+
+on:
+  push:
+    branches: [feat/match-reference-pitch]
+    paths:
+      - '.github/workflows/build-reference-pitches.yml'
+      - 'tools/reference_audio.py'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/feat/match-reference-pitch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate and check original tones
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install --yes ffmpeg
+          fi
+          python tools/reference_audio.py --build
+      - name: Record reviewed initial dependencies and validate
+        run: |
+          curl --fail --location --silent --show-error --retry 3 \
+            https://raw.githubusercontent.com/xiongxianfei/knowledge-practice-system/6a6e7aedc24581769fad435f4943856c1060e02a/validate.py \
+            --output /tmp/kps-validate.py
+          python /tmp/kps-validate.py . --accept-reviewed-summaries
+          python /tmp/kps-validate.py .
+      - name: Commit only generated assets and reviewed snapshot to the feature branch
+        run: |
+          git config user.name 'Singing KPS asset build'
+          git config user.email 'noreply@github.com'
+          git add -- media/reference-pitches/*.mp3 media/reference-pitches/manifest.json summary-dependencies.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'build: generate checked tones and reviewed dependency snapshot'
+            git push origin HEAD:refs/heads/feat/match-reference-pitch
+          fi
