@@ -14,9 +14,9 @@ Begin with one comfortable, observable singing task rather than memorising an en
 
 Singing KPS is an independent, source-linked beginner learning package using the Knowledge Practice System authoring language 9.x and the inspected Core 11.0.0 conventions. It offers a first humming and rhythm exercise and a separate ear-first reference-pitch task. No musical notation, prior training, fixed vocal range or performance experience is assumed.
 
-![Four organising groups locate ten candidate minimal subsystems, with shared coverage for voice care, registration, songs and learning; notation is an optional reading branch.](diagrams/body-of-knowledge-overview.png)
+![Direct singing topics include respiration, pitch relationships, registration, phrasing, repertoire and learning, with selected interfaces; notation and sight singing is optional.](diagrams/body-of-knowledge-overview.png)
 
-The overview summarises the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [complete topic outline](docs/body-of-knowledge-outline.md#overall-outline) to distinguish organising groups, minimal subsystems, their components and shared topics, then follow the coverage tables for required understanding, intended capabilities and gaps. The existing [detailed topic pictures](docs/body-of-knowledge-outline.md#optional-detailed-illustrations) remain optional supporting views. The current lessons support two limited beginner tasks; the outline defines the broader knowledge to develop.
+The overview summarises the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md). Start with the [complete topic outline](docs/body-of-knowledge-outline.md#overall-outline) to find directly named topics and their subsystem boundaries and interfaces, then follow the coverage tables for required understanding, intended capabilities and gaps. The existing [detailed topic pictures](docs/body-of-knowledge-outline.md#optional-detailed-illustrations) remain optional supporting views. The current lessons support two limited beginner tasks; the outline defines the broader knowledge to develop.
 
 ## Start here
 

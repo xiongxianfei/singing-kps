@@ -1,52 +1,59 @@
 Image 1: body-of-knowledge-outline-foundations.png
 
-Use case: scientific-educational. Create a high-quality landscape 3:2 teaching infographic, high resolution. Restrained watercolor illustration on warm ivory paper, navy text, teal and pale-gold accents, tasteful botanical corner details. Elegant serif titles, crisp very readable text, generous whitespace. This is a subject outline, not a lesson sequence. All listed labels must be spelled exactly; no invented labels. Small schematic artwork is secondary to clear hierarchy; no anatomical cutaways, clinical claims, exercises, exact staff notation or scores. No watermark.
-Title: "Vocal function"
-Subtitle: "One group • Four candidate subsystems"
-Four spacious cards in 2 by 2 grid. Each card has a large subsystem title, a short exact description, and small watercolor illustrations that are schematic rather than anatomy. The image explains a division of knowledge; it does NOT teach breathing or vocal technique.
-Card 1 title: "Respiration"
-Text: "Breath supply, pressure and airflow"
-Smaller line: "Connects to phonation and phrase demands"
-Artwork: relaxed torso silhouette with very subtle breath ribbons, no lung diagrams or posture instructions.
-Card 2 title: "Phonation"
-Text: "Vibration and sound generation"
-Smaller line: "Connects airflow to the vocal sound source"
-Artwork: a simple abstract vibration motif, no speculative vocal-fold anatomy.
-Card 3 title: "Vocal-tract resonance"
-Text: "Acoustic shaping of the sound source"
-Smaller line: "Connects tract configuration and sound spectrum"
-Artwork: abstract layered sound ribbons, no body locations for chest/head resonance.
-Card 4 title: "Articulation"
-Text: "Articulators and speech-sound formation"
-Smaller line: "Connects pronunciation to vowels and consonants"
-Artwork: restrained profile of a person speaking, no interior anatomy or vowel chart.
-Bottom full-width band title: "Topics spanning these systems"
-Body: "Registration • Range and tessitura • Voice classification"
-Second line: "Vocal care • Individual and developing voices"
-Footer: "Boundaries guide explanation; the functions interact."
-Use crisp large text and restrained illustrations. No arrows suggesting a compulsory linear process, no exercise numbering or invented source claims.
-
-Final targeted edit:
-Edit this illustration only to REMOVE four tiny decorative slogan blocks: upper-left 'VOICE CONNECTS US', upper-right 'PEOPLE SOUND COMMUNICATE BELONG', lower-left 'DIFFERENT VOICES A SHARED HUMANITY', and lower-right 'CURIOSITY DEEPENS LISTENING'. Replace those four small text areas with the same blank ivory paper background. Preserve every other word, all subsystem labels, the title, subtitle, card content, shared-topic band, footer, watercolor artwork, layout, colors and resolution exactly. Do not add any replacement text or other decoration.
+Use case: scientific-educational.
+Create a polished high-resolution landscape 4:3 educational infographic for a Markdown knowledge outline. Warm ivory paper, restrained teal and gold watercolor accents, navy text, elegant but exceptionally readable typography, ample whitespace. Small schematic illustrations only: no anatomical cutaways, clinical claims, exercises, staff notation or scores. No decorative slogans, no invented words, no watermark. All supplied text must be accurate. All topic cards have equal visual status: no category headings, parent panels, group borders, shared-topic band, or nested hierarchy. Connections are explanatory interfaces, not a pipeline or lesson order.
+Title: "Production and phrasing connections"
+Subtitle: "Selected topics from the singing outline"
+Six equal cards in a spacious 3-column by 2-row layout, with matching watercolor mini-illustrations and the exact text below. No parent grouping panel.
+Top-left title "Respiration"
+Body "Breath supply, pressure and airflow"
+Interface line "Interfaces: Phonation · Phrasing"
+Top-middle title "Phonation"
+Body "Vibration and sound generation"
+Interface line "Interfaces: Respiration · Resonance · Registration"
+Top-right title "Vocal tract resonance"
+Body "Configuration, resonances and sound spectrum"
+Interface line "Interfaces: Phonation · Articulation · Registration"
+Bottom-left title "Phrasing"
+Body "Boundaries, emphasis, timing and continuity"
+Interface line "Interfaces: Respiration · Rhythm · Diction"
+Bottom-middle title "Registration"
+Body "Register accounts and transitions"
+Interface line "Interfaces: Phonation · Resonance · Pitch"
+Bottom-right title "Articulation"
+Body "Articulators and speech-sound formation"
+Interface line "Interfaces: Resonance · Diction · Text setting"
+Use restrained, non-anatomical sound ribbons, abstract vibration, vowel dots, and phrase arcs for artwork. No posture instructions.
+Thin undirected lines through gaps connect Respiration to Phonation, Respiration to Phrasing, Phonation to Registration, and Vocal tract resonance to Articulation. No arrowheads or mandatory process order.
+Footer: "Interfaces connect systems; they do not remove their boundaries."
+Use exactly supplied words only.
 
 Image 2: body-of-knowledge-outline-musical-practice.png
 
-Use case: scientific-educational. Create a high-quality landscape 3:2 teaching infographic, high resolution. Restrained watercolor illustration on warm ivory paper, navy text, teal and pale-gold accents, tasteful botanical corner details. Elegant serif titles, crisp very readable text, generous whitespace. This is a subject outline, not a lesson sequence. All listed labels must be spelled exactly; no invented labels. Small schematic artwork is secondary to clear hierarchy; no anatomical cutaways, clinical claims, exercises, exact staff notation or scores. No watermark.
-Title: "Musical and coordination systems"
-A main upper group panel titled "Musical organisation", containing FOUR nested cards in 2 by 2 layout:
-"Pitch relationships" — "Height • Class • Octave • Interval"
-"Rhythmic organisation" — "Events • Durations • Rests • Pulse"
-"Metrical organisation" — "Beat grouping • Subdivision • Accent"
-"Tonal organisation" — "Tonal centre • Scale • Scale degrees"
-Each has a tiny tasteful watercolor motif: pitch dots, short event bars, groups of beat dots, a central pitch dot with other dots around it. Symbols are schematic, not notation or performance measurements.
-Below, TWO separately bordered group panels:
-Left group title: "Language-music coordination"
-Subsystem title: "Text setting"
-Body exact: "Syllables and stress ↔ musical events"
-Artwork: an open page with abstract syllable cards aligned over dots, no lyrics.
-Right group title: "Perception-production coordination"
-Subsystem title: "Auditory-vocal pitch matching"
-Body: "Target → attempt → feedback"
-Artwork: ear and a small sound loop motif, no claims of automatic improvement.
-Footer exact: "Musical representations and coordination loops are different kinds of system."
-Use large legible typography, whitespace and visibly nested group borders. This explains six candidate subsystems, not six ordered steps. No numbering, no extra labels, no complex staff notation.
+Use case: scientific-educational.
+Create a polished high-resolution landscape 4:3 educational infographic for a Markdown knowledge outline. Warm ivory paper, restrained teal and gold watercolor accents, navy text, elegant but exceptionally readable typography, ample whitespace. Small schematic illustrations only: no anatomical cutaways, clinical claims, exercises, staff notation or scores. No decorative slogans, no invented words, no watermark. All supplied text must be accurate. All topic cards have equal visual status: no category headings, parent panels, group borders, shared-topic band, or nested hierarchy. Connections are explanatory interfaces, not a pipeline or lesson order.
+Title: "Pitch, timing and text connections"
+Subtitle: "Selected topics from the singing outline"
+Six equal cards in a spacious 3-column by 2-row layout, with matching small watercolor mini-illustrations and exact text below. No parent group panels.
+Top-left title "Pitch relationships"
+Body "Height · Class · Octave · Interval"
+Interface line "Interfaces: Tonality · Pitch matching"
+Top-middle title "Rhythmic organisation"
+Body "Events · Durations · Rests · Pulse"
+Interface line "Interfaces: Meter · Text setting · Phrasing"
+Top-right title "Metrical organisation"
+Body "Beat grouping · Subdivision · Accent"
+Interface line "Interfaces: Rhythm · Phrasing"
+Bottom-left title "Tonal organisation"
+Body "Tonal centre · Scale · Scale degrees"
+Interface line "Interfaces: Pitch relationships · Melody"
+Bottom-middle title "Text setting"
+Body "Syllables and stress aligned with musical events"
+Interface line "Interfaces: Articulation · Diction · Rhythm"
+Bottom-right title "Auditory vocal pitch matching"
+Body "Reference · Perceived target · Attempt · Feedback"
+Interface line "Interfaces: Pitch relationships · Phonation · Learning"
+Watercolor motifs: abstract pitch dots, duration bars, groups of beat markers, tonic with surrounding dots, syllable cards aligned with event dots, ear and sound ribbons. No exact notation or lyrics.
+Thin undirected lines through gaps connect Pitch relationships to Tonal organisation, Rhythmic organisation to Metrical organisation, and Rhythmic organisation to Text setting. No arrowheads or process ordering.
+Footer: "Relationships describe music; coordination connects perception and action."
+Use only supplied words.
