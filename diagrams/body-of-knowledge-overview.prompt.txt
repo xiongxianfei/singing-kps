@@ -1,0 +1,21 @@
+Use case: infographic-diagram
+Asset type: high-quality whole-subject overview for a beginner Singing Body of Knowledge Outline, embedded in Markdown and reused in its README.
+Primary request: Create one polished educational overview showing ALL TEN subject areas together. Premium music-education book illustration, warm ivory paper, deep navy typography, restrained teal, soft blue and amber, delicate ink and watercolor icons. Landscape 1536x1024 or similarly generous resolution. Large crisp readable text at normal document width; generous space; wrap long headings instead of shrinking them. Ten equal cards in two columns of five. One small subject-relevant illustration per card; text dominates. No numbered stages or connecting arrows. No extra text, slogans, logos, badges, progress claims, exercise notation, lyrics, anatomical diagrams, required vocal ranges or posture prescriptions.
+Title: "Singing"
+Subtitle: "Body of Knowledge Outline"
+Purpose line: "Understand singing · Learn a suitable song · Make informed practice choices"
+Card headings exactly, in row-major order:
+"Voice production and breathing"
+"Vocal care and comfortable use"
+"Listening, pitch and intonation"
+"Beat, rhythm and meter"
+"Resonance and vocal timbre"
+"Registers, range and transitions"
+"Articulation, vowels and diction"
+"Notation and sight singing"
+"Songs, phrasing and performance"
+"Practice, feedback and skill development"
+Only the Notation and sight singing card has the small explicit label "Optional reading branch".
+Icons: relaxed singer silhouette with a flowing ribbon; water glass and pause motif; ear with abstract rising and falling sound line; metronome; layered abstract sound ribbons; keyboard with no range labels; mouth silhouette and blank text page; decorative music stand; a small singer with accompanist; notebook and headphones. Motifs are decorative, not instructions or measured evidence.
+Footer: "Selected beginner coverage · Topics overlap · Not a lesson sequence"
+Keep all ten headings equally visible. This overview summarizes areas, not every subtopic. No additional panels or tiny label lists. Opaque background.
