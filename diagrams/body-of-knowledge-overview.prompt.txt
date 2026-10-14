@@ -1,21 +1,33 @@
-Use case: infographic-diagram
-Asset type: high-quality whole-subject overview for a beginner Singing Body of Knowledge Outline, embedded in Markdown and reused in its README.
-Primary request: Create one polished educational overview showing ALL TEN subject areas together. Premium music-education book illustration, warm ivory paper, deep navy typography, restrained teal, soft blue and amber, delicate ink and watercolor icons. Landscape 1536x1024 or similarly generous resolution. Large crisp readable text at normal document width; generous space; wrap long headings instead of shrinking them. Ten equal cards in two columns of five. One small subject-relevant illustration per card; text dominates. No numbered stages or connecting arrows. No extra text, slogans, logos, badges, progress claims, exercise notation, lyrics, anatomical diagrams, required vocal ranges or posture prescriptions.
-Title: "Singing"
-Subtitle: "Body of Knowledge Outline"
-Purpose line: "Understand singing · Learn a suitable song · Make informed practice choices"
-Card headings exactly, in row-major order:
-"Voice production and breathing"
-"Vocal care and comfortable use"
-"Listening, pitch and intonation"
-"Beat, rhythm and meter"
-"Resonance and vocal timbre"
-"Registers, range and transitions"
-"Articulation, vowels and diction"
-"Notation and sight singing"
-"Songs, phrasing and performance"
-"Practice, feedback and skill development"
-Only the Notation and sight singing card has the small explicit label "Optional reading branch".
-Icons: relaxed singer silhouette with a flowing ribbon; water glass and pause motif; ear with abstract rising and falling sound line; metronome; layered abstract sound ribbons; keyboard with no range labels; mouth silhouette and blank text page; decorative music stand; a small singer with accompanist; notebook and headphones. Motifs are decorative, not instructions or measured evidence.
-Footer: "Selected beginner coverage · Topics overlap · Not a lesson sequence"
-Keep all ten headings equally visible. This overview summarizes areas, not every subtopic. No additional panels or tiny label lists. Opaque background.
+Use case: scientific-educational. Create a high-quality landscape 3:2 teaching infographic, high resolution. Restrained watercolor illustration on warm ivory paper, navy text, teal and pale-gold accents, tasteful botanical corner details. Elegant serif titles, crisp very readable text, generous whitespace. This is a subject outline, not a lesson sequence. All listed labels must be spelled exactly; no invented labels. Small schematic artwork is secondary to clear hierarchy; no anatomical cutaways, clinical claims, exercises, exact staff notation or scores. No watermark.
+Title: "Singing Body of Knowledge"
+Subtitle: "Groups → minimal subsystems → components and relationships"
+Layout: FOUR clearly bounded group cards; group names are large headings, subsystem names are nested readable lines inside each. Two larger cards across top take enough height to fit four names each, two shallower cards below hold one subsystem each. A visually separate full-width shared-coverage band at bottom. No directional arrows among groups. Do not number these as a lesson sequence.
+Top-left group heading: "Vocal function"
+Inside four subsystem names, exactly:
+"Respiration"
+"Phonation"
+"Vocal-tract resonance"
+"Articulation"
+Accompany with one restrained watercolor silhouette of a relaxed singer and abstract sound ribbons; not a medical diagram.
+Top-right group heading: "Musical organisation"
+Inside four names:
+"Pitch relationships"
+"Rhythmic organisation"
+"Metrical organisation"
+"Tonal organisation"
+Artwork: a few abstract pitch dots and grouped pulse markers, decorative rather than a prescribed exercise.
+Bottom-left group heading: "Language-music coordination"
+One subsystem name: "Text setting"
+Small illustration of a syllable card aligned over a musical event marker, no actual lyrics.
+Bottom-right group heading: "Perception-production coordination"
+One subsystem name, split over two lines if necessary: "Auditory-vocal pitch matching"
+Small ear and sound feedback motif.
+Clearly separate bottom band heading: "Shared coverage across systems"
+Within it, use exactly these four short lines, arranged two columns:
+"Vocal care and individual variation"
+"Registration, range and transitions"
+"Diction, songs and expression"
+"Learning and feedback"
+Below band, separate small label: "Optional reading branch: notation and sight singing"
+Footer: "Working boundaries • Connected systems • Not a lesson sequence"
+Critical: Vocal function etc are GROUP headings; the ten listed items nested inside are subsystems. Shared coverage is separate, not an eleventh subsystem. Every subsystem appears once.
