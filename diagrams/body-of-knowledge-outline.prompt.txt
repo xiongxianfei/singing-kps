@@ -1,0 +1,91 @@
+Generation mode: built-in image_gen
+
+Image 1: body-of-knowledge-outline-foundations.png
+
+Use case: infographic-diagram
+Asset type: premium illustrated educational coverage poster for a beginner singing knowledge library.
+Primary request: Create a polished, highly legible landscape 3:2 editorial infographic. Warm ivory paper, deep navy typography, muted teal and soft blue with restrained amber accents; fine linework and delicate natural shading. Sophisticated music-education book illustration. Strong type hierarchy, generous spacing, no text over illustration. Five topic panels: upper 2-by-2 grid of four panels, final panel full-width below. Each panel has its supplied number, exact heading, and readable topic list beside a small evocative illustration. Illustrations use only about a third of each panel.
+Constraints: Text exactly as supplied; every topic once. No extra slogans, logos, watermark, progress scores or certification badges. No copied musical score or lyrics. Decorative musical marks are not exercise notation. No precise anatomical diagrams, vocal-range targets, posture prescriptions or forceful singing. This is an overview of intended knowledge coverage, not a sequence of vocal exercises. No arrows between areas. Opaque background. Keep footers large enough to read.
+Title: "Singing Body of Knowledge"
+Subtitle: "Coverage outline • 1 of 2"
+Panel 01 heading: "Voice production and breathing"
+Topics:
+"The vocal instrument"
+"Body and breath coordination"
+"Phonation and sound continuity"
+"Individual and developing voices"
+Illustration: a naturally relaxed adult singer shown modestly from shoulders up beside a gently flowing sound ribbon, with no anatomical cutaway.
+Panel 02 heading: "Vocal care and comfortable use"
+Topics:
+"Comfort and warning signs"
+"Vocal load and recovery"
+"Appropriate professional support"
+Illustration: water glass, resting closed notebook and a calm pause symbol, no medical diagnosis imagery.
+Panel 03 heading: "Listening pitch and intonation"
+Topics:
+"Pitch direction and contour"
+"Reference-pitch matching"
+"Intervals and tonal context"
+"Intonation and listening feedback"
+Illustration: ear silhouette, small keyboard and abstract rising/falling melodic ribbon, no frequency scale or required pitches.
+Panel 04 heading: "Beat rhythm and meter"
+Topics:
+"Pulse and tempo"
+"Durations and rests"
+"Meter and grouping"
+Illustration: an elegant metronome and simple separated pulse marks, no exercise.
+Panel 05 heading: "Resonance and vocal timbre"
+Topics:
+"Source and vocal-tract shaping"
+"Vowels and tone quality"
+"Dynamics and vibrato"
+Illustration: flowing layered sound waves with different textures, clearly metaphorical and not an anatomy lesson.
+Footer line 1: "Understand • Listen • Coordinate • Express • Reflect"
+Footer line 2: "Intended coverage. Current lessons cover only a first beginner task."
+
+Image 2: body-of-knowledge-outline-musical-practice.png (initial generation, followed by the refinement below)
+
+Use case: infographic-diagram
+Asset type: premium illustrated educational coverage poster for a beginner singing knowledge library.
+Primary request: Create a polished, highly legible landscape 3:2 editorial infographic. Warm ivory paper, deep navy typography, muted teal and soft blue with restrained amber accents; fine linework and delicate natural shading. Sophisticated music-education book illustration. Strong type hierarchy, generous spacing, no text over illustration. Five topic panels: upper 2-by-2 grid of four panels, final panel full-width below. Each panel has its supplied number, exact heading, and readable topic list beside a small evocative illustration. Illustrations use only about a third of each panel.
+Constraints: Text exactly as supplied; every topic once. No extra slogans, logos, watermark, progress scores or certification badges. No copied musical score or lyrics. Decorative musical marks are not exercise notation. No precise anatomical diagrams, vocal-range targets, posture prescriptions or forceful singing. This is an overview of intended knowledge coverage, not a sequence of vocal exercises. No arrows between areas. Opaque background. Keep footers large enough to read.
+Title: "Singing Body of Knowledge"
+Subtitle: "Coverage outline • 2 of 2"
+Panel 06 heading: "Registers range and transitions"
+Topics:
+"Register terminology"
+"Range and tessitura"
+"Transitions and coordination"
+Illustration: a keyboard with softly arcing sound ribbons, no fixed voice-type labels or measurable ranges.
+Panel 07 heading: "Articulation vowels and diction"
+Topics:
+"Vowels and consonants"
+"Pronunciation and meaning"
+"Text and musical timing"
+Illustration: an open language notebook with abstract speech symbols and a pencil; no phonetic claims or tiny words.
+Panel 08 heading: "Notation and sight singing"
+Topics:
+"Reading written pitch"
+"Reading rhythm and directions"
+"From notation to sound"
+Illustration: an original decorative music page on a stand beside a small keyboard, not a copied score or an exercise to perform.
+Panel 09 heading: "Songs phrasing and performance"
+Topics:
+"Repertoire selection"
+"Phrasing and expression"
+"Style and musical context"
+"Singing with others and presenting"
+Illustration: a relaxed adult singer with an accompanist at a piano, small, warm and inviting, no dramatic strained posture.
+Panel 10 heading: "Practice feedback and skill development"
+Topics:
+"Choosing a practice task"
+"Separating and combining skills"
+"Observations and recording limits"
+"Retention and transfer"
+Illustration: open practice notebook, headphones and simple recorder with abstract waveform, no invented metrics.
+Footer line 1: "Understand • Listen • Coordinate • Express • Reflect"
+Footer line 2: "Intended coverage. Current lessons cover only a first beginner task."
+
+Image 2 refinement prompt:
+
+Edit only the open notebook in the lower-left illustration of panel 10 in the most recent Singing Body of Knowledge Coverage outline 2 of 2 poster. Remove all handwritten words ("Explore", "Listen", "Try", "Adjust", "Keep going") from the notebook, leaving clean ruled pages with no text. Preserve every other pixel as closely as possible: all headings, 17 topic labels, numbers 06–10, footer, singer, piano, notebook geometry, recorder, colors, typography and layout must remain unchanged. Do not add any words or symbols.
