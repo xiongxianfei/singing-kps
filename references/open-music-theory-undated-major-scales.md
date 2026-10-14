@@ -1,7 +1,7 @@
 ---
 id: "sing:reference:omt-major-scales"
 type: "reference"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -23,7 +23,7 @@ A pitch name and a scale-degree role describe different relationships in a selec
 
 ## Summary
 
-The inspected major-scale account supports coverage of scales, tonic and scale-degree naming in the singing outline. It does not supply a complete local tonal Model or evidence for a beginner exercise.
+The inspected major-scale account supports scales, tonic and degree relationships in the singing outline and the selected major-scale tonal Model. It is not a complete tonal theory or evidence for a beginner exercise.
 
 ## Publication and inspection
 
@@ -36,3 +36,8 @@ The Major Scales section describes a recurring step pattern and names the scale 
 ## Limits
 
 Only the named text sections supply evidence here. No recordings, assignments or source figures were evaluated or copied. The account concerns selected Western major-scale conventions; it does not establish universal tonality, minor/modal systems, an individual's expectations or the effectiveness of the singing Practice. The outline's grouping and beginner capability goals are authored adaptations.
+
+
+## Model development inspection
+
+The named major-scale and degree sections were rechecked on 2026-10-14 through the same credited republication for the local tonal Model. The whole/half-step pattern and contextual roles support its coordinate representation; the two-context and transposition cases are authored applications. The original host remained unavailable. No source melody, learner result, minor/modal theory or experimentally established expectation mechanism is claimed.

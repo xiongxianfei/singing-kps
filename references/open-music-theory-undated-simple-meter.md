@@ -1,7 +1,7 @@
 ---
 id: "sing:reference:omt-simple-meter"
 type: "reference"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -40,3 +40,8 @@ This record identifies a published source and the exact part used to support beg
 ## What this source does not establish
 
 The explanation is not a scientific demonstration that tapping improves singing, nor a mandate to use a four-beat group.
+
+
+## Model development inspection
+
+On 2026-10-14, Terminology, Simple Meter and Time Signatures were rechecked through the [credited LibreTexts republication](https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_%28Gotham_et_al.%29/01%3A_Fundamentals/1.09%3A_Simple_Meter_and_Time_Signatures). The original host returned 403 in this recheck. The earlier inspection remains recorded above; the mirror is the same source family. The selected text supports the new rhythm/metre representation, not automatic beat perception or a learner outcome. No source recordings or scores were evaluated or copied in this recheck.

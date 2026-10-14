@@ -1,6 +1,6 @@
 ---
 language: "KPS 9.x"
-package_version: "0.2.0"
+package_version: "0.3.0"
 status: "draft"
 reviewed: null
 ---
@@ -16,6 +16,8 @@ Understand singing through directly named topics, with each subsystem explained 
 This beginner outline lists singing topics at one level. Subsystem descriptions sit beside their coverage requirements, existing explanations and gaps. Interfaces show how systems connect; overlap is useful and does not disqualify a subject from being a subsystem. Boundaries are working explanatory choices grounded in established voice-pedagogy and music-theory subjects.
 
 The outline defines what needs to be understood and to what depth. Concepts, Principles, Models, Methods and Practices remain the knowledge roles. A Model represents a coherent system; a Practice selects and combines knowledge for an outcome. A topic heading does not require a separate Model file. Available activities remain in the [README](../README.md#start-here).
+
+The [Model architecture](model-architecture.md) maps every topic to current explanations and remaining questions. Its first implemented groups contain seven complementary Models of physical production, articulation, musical coordinates and auditory-vocal matching. These groups do not replace this directly named topic outline or make every topic complete.
 
 ## Purpose and scope
 
@@ -74,6 +76,8 @@ The overview gives every listed topic the same visual level. Selected connection
 
 **Understand** states the needed knowledge; **Be able to do** states introductory depth. **Partial** means an existing explanation contributes without completing the topic. **Source only** means a relevant external account is recorded but a locally sufficient explanation is missing. **Missing** identifies an unsupported local gap. A planned Model counts as missing until authored; a source label or passing structural check does not establish competence or scientific validation.
 
+**Introductory explanation** below means that the stated local distinction has a self-contained representation and worked case, checked editorially. It does not mean the entire topic is complete, a learner can perform it, or the account has received independent scientific approval. Broader requirements remain Partial even when a narrower explanation is sufficient.
+
 ## Respiration
 
 **Scope:** breath supply and its coordination with vocal demands; detailed laryngeal vibration belongs to Phonation.
@@ -82,11 +86,11 @@ The overview gives every listed topic the same visual level. Selected connection
 
 **Interfaces:** [Phonation](#phonation) concerns vibration supplied by airflow; [Phrasing](#phrasing) concerns phrase demands and boundaries.
 
-**Example:** phrase demands connect musical grouping to breath use; explaining a short phrase should distinguish its breath requirement from its intended pitch. A complete respiratory Model is missing.
+**Example:** phrase demands connect musical grouping to breath use; explaining a short phrase should distinguish its breath requirement from its intended pitch. The [introductory production Model](../models/respiratory-phonatory-system.md) now explains a bounded pressure/flow and vibration account; individual phrase coordination remains a gap.
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Body and breath coordination | Movement, breathing and phrase demands; limits of posture and support metaphors | Describe the coordination a short phrase requires and distinguish an observation from a teacher's cue. | **Source only:** [NATS syllabus](../references/nats-undated-voice-pedagogy-syllabus.md). Local breathing and coordination explanations missing. |
+| Body and breath coordination | Movement, breathing and phrase demands; limits of posture and support metaphors | Describe the coordination a short phrase requires and distinguish an observation from a teacher's cue. | **Partial:** [Respiratory phonatory system](../models/respiratory-phonatory-system.md) explains pressure, flow, respiratory movement and a constructed duration budget. Individual breath coordination, posture/support cues and phrase strategies remain undeveloped; the Model prescribes no breathing target. |
 
 ## Phonation
 
@@ -100,7 +104,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Phonation and sound continuity | Starting, sustaining and ending voiced sound; relationship to airflow and articulation | Identify the intended start and release of a phrase and explain which parts of voice function are involved. | **Partial:** voice-production Concept; onset, release and continuity explanations missing. |
+| Phonation and sound continuity | Starting, sustaining and ending voiced sound; relationship to airflow and articulation | Identify the intended start and release of a phrase and explain which parts of voice function are involved. | **Partial:** the [production Model](../models/respiratory-phonatory-system.md) explains qualitative conditions for initiating, maintaining and ending self-oscillation. Detailed onset strategies, tissue dynamics and individual coordination remain outside this subset. |
 
 ## Vocal tract resonance
 
@@ -114,8 +118,8 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Source and vocal-tract shaping | Sound generation versus shaping, resonance and basic acoustic representation | Explain why voice production needs both a sound source and an account of shaping. | **Partial:** [Voice production](../concepts/voice-production.md). An acoustic Model and worked comparisons are missing. |
-| Vowels and tone quality | Relationships among articulation, vocal-tract configuration and perceived timbre | Describe a change in vowel or tone without assuming that a sensation locates a sound source. | **Source only:** [NATS](../references/nats-undated-voice-pedagogy-syllabus.md). Local acoustic and perceptual explanations missing. |
+| Source and vocal-tract shaping | Sound generation versus shaping, resonance and basic acoustic representation | Explain why voice production needs both a sound source and an account of shaping. | **Introductory explanation:** [Source and filter](../models/source-filter-voice-production.md) relates excitation, response and output with worked spectra and coupling limits. Detailed nonlinear acoustics and individual parameter estimation remain partial. |
+| Vowels and tone quality | Relationships among articulation, vocal-tract configuration and perceived timbre | Describe a change in vowel or tone without assuming that a sensation locates a sound source. | **Partial:** [Articulatory speech sounds](../models/articulatory-speech-sounds.md) and [source-filter acoustics](../models/source-filter-voice-production.md) connect configuration with shaping while distinguishing vowel height from pitch. Language-specific vowels, dynamic changes and perception remain incomplete. |
 
 ## Articulation
 
@@ -129,7 +133,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Vowels and consonants | Speech-sound categories, articulators and their roles in sung words | Distinguish a vowel-quality question from a consonant-formation question in a chosen word. | **Source only:** [NATS articulation](../references/nats-undated-voice-pedagogy-syllabus.md). No local speech-sound account. |
+| Vowels and consonants | Speech-sound categories, articulators and their roles in sung words | Distinguish a vowel-quality question from a consonant-formation question in a chosen word. | **Introductory explanation:** the [articulatory Model](../models/articulatory-speech-sounds.md) distinguishes selected place, manner, voicing, vowel and nasal-route features with examples. Full inventories, coarticulation and language-specific instruction remain partial. |
 
 ## Pitch relationships
 
@@ -144,8 +148,8 @@ The overview gives every listed topic the same visual level. Selected connection
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
 | Pitch direction and contour | Higher, lower, repeated pitches and melodic shape | Describe a heard rise and return separately from whether either note matched a target. | **Partial:** [Pitch](../concepts/pitch.md) and [pitch-direction task](../practices/first-singing-session.md#stage2-explore-pitch-direction). The added audio examples contrast same, higher, lower and octave-related notes; subtle discrimination and broader melodic examples remain partial. |
-| Pitch height and pitch class | Specific pitch, octave placement and class membership; pitch differs from loudness and timbre | Explain why an A-only display cannot establish a same-height match. | **Partial:** [Pitch Concept](../concepts/pitch.md) and [Pitch relationships Model](../models/pitch-relationships.md). No model of pitch perception or complete naming system is supplied. |
-| Octaves and interval distance | Frequency ratios and equal-tempered step distance under the declared A4 reference | Compare unison, octave and a non-octave interval without confusing hertz difference with musical distance. | **Partial:** the pitch Model and [UNSW Reference](../references/wolfe-undated-note-frequencies.md). Full interval spelling, alternative tunings and perceptual discrimination remain outside the example. |
+| Pitch height and pitch class | Specific pitch, octave placement and class membership; pitch differs from loudness and timbre | Explain why an A-only display cannot establish a same-height match. | **Introductory explanation:** [Pitch](../concepts/pitch.md) and the refined [pitch Model](../models/pitch-relationships.md) distinguish height, class and octave with worked comparisons. A full naming system and pitch-perception account remain outside the subset. |
+| Octaves and interval distance | Frequency ratios and equal-tempered step distance under the declared A4 reference | Compare unison, octave and a non-octave interval without confusing hertz difference with musical distance. | **Partial:** the refined [pitch Model](../models/pitch-relationships.md) explains ratio distance, contour loss and transposition invariance. Full interval spelling, alternative tunings and perceptual discrimination still need accounts. |
 
 ## Rhythmic organisation
 
@@ -159,8 +163,8 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Pulse and tempo | Recurring beat, pace and maintaining a time reference | Keep a simple pulse distinct from the sounds placed within it and notice unintended speeding or slowing. | **Partial:** [Beat and rhythm](../concepts/beat-and-rhythm.md), [four-beat task](../practices/first-singing-session.md#stage3-feel-four-beats). More tempo examples needed. |
-| Durations and rests | Relative note lengths, silence, subdivisions and rhythmic patterns | Explain or reproduce a short rhythm independently of its pitches. | **Partial:** beat-and-rhythm Concept; [rhythm Reference](../references/open-music-theory-undated-notating-rhythm.md). Subdivision and varied patterns missing locally. |
+| Pulse and tempo | Recurring beat, pace and maintaining a time reference | Keep a simple pulse distinct from the sounds placed within it and notice unintended speeding or slowing. | **Introductory explanation:** [Rhythm and meter](../models/rhythm-and-meter.md) relates beat positions to seconds with an explicit beat unit and constant-tempo example. Expressive timing and an observed learner performance remain outside this explanation. |
+| Durations and rests | Relative note lengths, silence, subdivisions and rhythmic patterns | Explain or reproduce a short rhythm independently of its pitches. | **Introductory explanation:** the [rhythm and meter Model](../models/rhythm-and-meter.md) represents event spans, a rest within a continuing pulse and selected subdivisions. Complex rhythms, tuplets and song-level use remain partial. |
 
 ## Metrical organisation
 
@@ -174,7 +178,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Meter and grouping | Beat groupings, accents, simple and compound organisation in the adopted tradition | Distinguish a grouping pattern from a mere count and relate it to phrase timing. | **Source only:** [Simple meter](../references/open-music-theory-undated-simple-meter.md); a local meter account and additional compound-meter sourcing are missing. |
+| Meter and grouping | Beat groupings, accents, simple and compound organisation in the adopted tradition | Distinguish a grouping pattern from a mere count and relate it to phrase timing. | **Partial:** [Rhythm and meter](../models/rhythm-and-meter.md) compares simple-triple and compound-duple grouping with a six-slot case and [compound-meter sourcing](../references/open-music-theory-undated-compound-meter.md). Phrasing, ambiguous metre, changing groups and broader traditions remain incomplete. |
 
 ## Tonal organisation
 
@@ -188,8 +192,8 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Intervals and tonal context | Relationships between pitches, musical patterns and a tonal reference in the selected repertoire | Identify a repeated or changed melodic relationship and explain how context helps anticipate a note. | **Partial:** [Pitch](../concepts/pitch.md) explains unison and octave placement with listening examples. The [pitch Model](../models/pitch-relationships.md) adds selected interval-distance comparisons; fuller interval naming and tonal context still need development; [Trinity](../references/trinity-2026-singing-syllabus.md) supplies assessment context only. |
-| Tonal centre and scale degrees | A major scale and numbered positions relative to its tonic; note name differs from contextual role | Distinguish the pitch class A from its role as the first degree of A major. | **Source only:** [Open Music Theory major-scale account](../references/open-music-theory-undated-major-scales.md). A local tonal Model, minor/modal accounts and evidence for perceptual expectations remain missing. |
+| Intervals and tonal context | Relationships between pitches, musical patterns and a tonal reference in the selected repertoire | Identify a repeated or changed melodic relationship and explain how context helps anticipate a note. | **Partial:** [Pitch relationships](../models/pitch-relationships.md) supplies distances and [Tonal organisation](../models/tonal-organisation.md) adds a declared major-scale context and transposition. Fuller interval naming, musical expectation mechanisms and repertoire transfer remain missing. |
+| Tonal centre and scale degrees | A major scale and numbered positions relative to its tonic; note name differs from contextual role | Distinguish the pitch class A from its role as the first degree of A major. | **Introductory explanation:** the [major-scale tonal Model](../models/tonal-organisation.md) distinguishes a class from its contextual degree and follows a transposed fragment. Minor/modal accounts, key inference and perceptual expectation remain partial. |
 
 ## Text setting
 
@@ -218,7 +222,7 @@ The overview gives every listed topic the same visual level. Selected connection
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
 | Reference-pitch matching | Intended pitch, an external reference, octave placement and comparison | Explain the difference between following a contour and matching a reference; identify what comparison evidence is needed. | **Partial:** [Match a reference pitch](../practices/match-a-reference-pitch.md), the [comparison Method](../methods/reference-pitch-comparison.md) and selectable reference audio supply a single-note task. Independent matching results and broader transfer are not demonstrated. |
-| Intonation and listening feedback | Intended versus produced pitch, sustained or changing notes, and uncertainty in auditory or device feedback | Describe where a phrase differs from its reference without reducing its musical quality to one pitch score. | **Partial:** [Intonation](../concepts/intonation.md), the [comparison Method](../methods/reference-pitch-comparison.md) and [auditory vocal Model](../models/auditory-vocal-pitch-matching.md) distinguish target, output and uncertainty. Phrase-level, expressive and context-dependent intonation remain unimplemented. |
+| Intonation and listening feedback | Intended versus produced pitch, sustained or changing notes, and uncertainty in auditory or device feedback | Describe where a phrase differs from its reference without reducing its musical quality to one pitch score. | **Partial:** [Intonation](../concepts/intonation.md), the [comparison Method](../methods/reference-pitch-comparison.md) and refined [auditory vocal Model](../models/auditory-vocal-pitch-matching.md) distinguish acoustic/categorical targets, action and uncertain evidence. Phrase-level expressive intonation and individual causal assessment remain unimplemented. |
 
 ## Vocal instrument and individual variation
 
@@ -232,7 +236,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| The vocal instrument | Breath supply, vocal folds, vocal tract and their distinct contributions | Explain where voiced sound begins and how it is shaped without treating an image or sensation as an anatomical measurement. | **Partial:** [Voice production](../concepts/voice-production.md). A fuller functional representation is missing. |
+| The vocal instrument | Breath supply, vocal folds, vocal tract and their distinct contributions | Explain where voiced sound begins and how it is shaped without treating an image or sensation as an anatomical measurement. | **Partial:** the [production](../models/respiratory-phonatory-system.md), [source-filter](../models/source-filter-voice-production.md) and [articulatory](../models/articulatory-speech-sounds.md) Models explain complementary functions and interfaces. Individual anatomy, development and variation still require further accounts. |
 | Individual and developing voices | Variation between people, changing voices and limits of comparisons | Explain why a peer's pitch range or sound does not establish one's own appropriate task. | **Source only:** NATS developmental-voice topic. Local explanations and age-specific guidance missing. |
 
 ## Vocal care and comfortable use
@@ -438,6 +442,8 @@ The overview gives every listed topic the same visual level. Selected connection
 | [NIDCD voice care](../references/nidcd-2025-taking-care-of-your-voice.md) | General production and care boundaries | Reuses recorded guidance; no individual diagnosis or new clinical procedure. |
 
 The flat organisation, proposed boundaries, interfaces and example questions are authored applications of the recorded coverage. Established subjects supply the foundation; this is not a claim of an industry-standard subsystem inventory. Detailed mechanisms and language- or style-specific accounts remain gaps where indicated. No source audio, learner performance or independent scientific review was added. Required topics remain visible even where local explanations are missing.
+
+The first Model groups additionally use selected [OpenStax respiratory mechanics](../references/betts-2022-process-of-breathing.md), [singing mechanics](../references/wolfe-undated-singing-mechanics.md), a [physical source-filter experiment](../references/wolfe-2016-measured-source-filter.md), [articulatory phonetics](../references/anderson-2022-speech-articulation.md) and [compound metre](../references/open-music-theory-undated-compound-meter.md). Their records state actual inspected portions, mirrors and nonclaims. The architecture is authored integration, not an externally prescribed taxonomy. NATS and Trinity retain their existing limited roles; no new clinical or teaching effectiveness claim is added.
 
 ## Optional detailed illustrations
 

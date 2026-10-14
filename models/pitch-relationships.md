@@ -1,13 +1,13 @@
 ---
 id: "sing:model:pitch-relationships"
 type: "model"
-version: "0.1.0"
+version: "0.2.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
 references: ["sing:reference:omt-aspn", "sing:reference:unsw-note-frequencies"]
 uses_concepts: ["sing:concept:pitch", "sing:concept:intonation"]
-uses_models: ["sing:model:auditory-vocal-pitch-matching"]
+uses_models: ["sing:model:auditory-vocal-pitch-matching", "sing:model:tonal-organisation", "sing:model:rhythm-and-meter", "sing:model:source-filter-voice-production"]
 basis_kind: "Authored representation of established pitch notation and equal-tempered frequency relationships; constructed comparisons, not learner observations"
 source_alignment: [{"reference": "sing:reference:omt-aspn", "relation": "definition-paraphrase", "locator": "American Standard Pitch Notation and Pitch versus Pitch Class; ASPN and Octave Designations"}, {"reference": "sing:reference:unsw-note-frequencies", "relation": "equation-application", "locator": "Opening octave and equal-temperament explanation; frequency and logarithmic ratio equations"}]
 ---
@@ -84,14 +84,21 @@ Compare the constructed patterns **A3 → E4 → A3** and **A3 → C4 → A3**. 
 
 The first-session contour task deliberately leaves exact pitches and intervals unspecified. A correct direction pattern and a same-height reference match are different outcomes. Optional listening examples are the existing [A3](../media/reference-pitches/a3.mp3), [E4](../media/reference-pitches/e4.mp3) and [C4](../media/reference-pitches/c4.mp3) files, played separately; listening does not require singing those notes.
 
+## Worked interface with transposition
+
+Take the constructed pair A3 at 220 Hz and E4 at about 329.63 Hz. Raising both by three equal-tempered semitones multiplies both frequencies by `2^(3/12)`, approximately 1.18921. Their new targets are C4 at about 261.63 Hz and G4 at about 392.00 Hz. The pair remains seven semitones apart; its absolute heights and pitch classes have changed.
+
+This is an application of the ratio rule already defined above. It explains one invariant that the [major-scale tonal Model](tonal-organisation.md) uses when context and a whole pattern are transposed. It does not choose a comfortable key for a singer. The [rhythm and meter Model](rhythm-and-meter.md) can attach either pair to the same event times: pitch transposition alone does not change duration.
+
 ## Interfaces and interpretation limits
 
 | Connected explanation | What this Model contributes | What remains outside it |
 |---|---|---|
 | [Auditory-vocal pitch matching](auditory-vocal-pitch-matching.md) | Describes the target relationship to compare | Perceiving, remembering, producing and correcting a note are different functions; a mismatch does not locate its cause |
 | [Intonation](../concepts/intonation.md) | Supplies a reference relationship for a comparison | A human attempt can vary over time, and measurement or listening can remain uncertain; no universal passing tolerance is declared |
-| Rhythmic organisation and text setting | Pitch relationships can be combined with event timing and syllable placement | This Model does not specify rhythm, lyrics or their coordination |
-| Tonal organisation | Identifies pitches and distances available to a contextual account | A class name does not identify tonic, scale degree or expressive role |
+| [Rhythm and meter](rhythm-and-meter.md) and [text setting](../docs/body-of-knowledge-outline.md#text-setting) | Pitch relationships are assigned to event times; later accounts must specify syllable placement | A direction sequence loses duration and interval size; timing is not derived from pitch |
+| [Tonal organisation](tonal-organisation.md) | Provides pitch classes and intervals; receives the declared context needed for scale-degree roles | Class membership does not by itself identify tonic, degree, expressive role or a unique octave |
+| [Source and filter](source-filter-voice-production.md) | A stable source fundamental can supply a physical pitch coordinate while spectral shaping describes a different property | A strong harmonic is not automatically the fundamental, and a frequency value does not identify vowel or vocal configuration |
 
 A stable synthetic reference is not a model of a human timbre or a guarantee of accurate playback. The arithmetic does not establish a listener's discrimination, a safe pitch range, healthy technique or learning effectiveness. An uncertain real comparison stays uncertain rather than being replaced by the idealised table.
 

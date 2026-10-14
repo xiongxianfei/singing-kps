@@ -4,7 +4,7 @@
   "entries": {
     "concepts/beat-and-rhythm.md": {
       "references/open-music-theory-undated-notating-rhythm.md": "141291840def4b2f94756aa136c793f95b05c2535d78d83e1d373cb84735ba19",
-      "references/open-music-theory-undated-simple-meter.md": "1b3f2d8fdfa180821c1baa29052bdf6b8f342e4091a16c82ae5c99e1c6454efd"
+      "references/open-music-theory-undated-simple-meter.md": "93c9d4f40532667254de327c2473537fcea0151abfca7909286910059e186d23"
     },
     "concepts/intonation.md": {
       "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
@@ -28,16 +28,84 @@
       "references/blanco-2021-pitch-matching-feedback.md": "dbdc1eeb2f2e76938abb191b3853860147acbb87fc35dad1917a2f9920d44853",
       "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93"
     },
-    "models/auditory-vocal-pitch-matching.md": {
+    "models/articulatory-speech-sounds.md": {
       "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "concepts/voice-production.md": "7552245b4db24d976981fbcc70bc2917cad07914b6b1a1be7e0931cbb395f31c",
+      "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
+      "models/respiratory-phonatory-system.md": "d152f4b03ca5262cca0b4e415600be2c0ed9eccdd38da8e65c44d96ab0987466",
+      "models/rhythm-and-meter.md": "526124738bfca50a34f3e67972f50ed9126bcd25241196aa3cff0f1828ddf84c",
+      "models/source-filter-voice-production.md": "070fd10fbfd87bb74ffc147ccece414a5b465ae6f7ba8414c0f51b059eb42796",
+      "practices/match-a-reference-pitch.md": "382b1f06c42ef0181f7f5b6035c03923c9602fa98f82f72602c743a57c06800d",
+      "references/anderson-2022-speech-articulation.md": "3b16b86e27c2b4ffbfcbfe257f2b1ed32dfbfc50ef12934ff95dd3857e2b3a9f"
+    },
+    "models/auditory-vocal-pitch-matching.md": {
+      "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "methods/reference-pitch-comparison.md": "b44e3cc8f0f9c940b8ce6426ccf05384a19d2060c460a51375bbeb3d0f963b7c",
+      "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
+      "models/respiratory-phonatory-system.md": "d152f4b03ca5262cca0b4e415600be2c0ed9eccdd38da8e65c44d96ab0987466",
+      "models/rhythm-and-meter.md": "526124738bfca50a34f3e67972f50ed9126bcd25241196aa3cff0f1828ddf84c",
+      "models/source-filter-voice-production.md": "070fd10fbfd87bb74ffc147ccece414a5b465ae6f7ba8414c0f51b059eb42796",
+      "models/tonal-organisation.md": "14bcc3aaeaad5e833f6e42cf60a0460649a2b4e894a81b9ec24dac6d67dd085b",
+      "practices/match-a-reference-pitch.md": "382b1f06c42ef0181f7f5b6035c03923c9602fa98f82f72602c743a57c06800d",
       "references/pfordresher-2015-singing-accuracy-framework.md": "137e30177ef4b539bd2e92bda7917d3c2c546ec9fe2dc9661457ede3fa893288"
     },
     "models/pitch-relationships.md": {
       "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
       "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
-      "models/auditory-vocal-pitch-matching.md": "72a7c81f2acb72fce11d5a04711826b2e3b28e4034bedc1321c4a7ef9a7cc4d2",
+      "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
+      "models/rhythm-and-meter.md": "526124738bfca50a34f3e67972f50ed9126bcd25241196aa3cff0f1828ddf84c",
+      "models/source-filter-voice-production.md": "070fd10fbfd87bb74ffc147ccece414a5b465ae6f7ba8414c0f51b059eb42796",
+      "models/tonal-organisation.md": "14bcc3aaeaad5e833f6e42cf60a0460649a2b4e894a81b9ec24dac6d67dd085b",
       "practices/match-a-reference-pitch.md": "382b1f06c42ef0181f7f5b6035c03923c9602fa98f82f72602c743a57c06800d",
       "references/open-music-theory-undated-aspn.md": "c7fca0b8c4ee074c8a7aa0ce9957134c67438c2e4ffbe2de6f043281111460ae",
+      "references/wolfe-undated-note-frequencies.md": "71c26ee4a2a493557a820c234a0998cb39c29b6b7ed86b30560c061fc4df2b23"
+    },
+    "models/respiratory-phonatory-system.md": {
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "concepts/voice-production.md": "7552245b4db24d976981fbcc70bc2917cad07914b6b1a1be7e0931cbb395f31c",
+      "models/articulatory-speech-sounds.md": "a679050bd4326acb070495e145164bbf9b3a61fac3de25363911d93a2daba175",
+      "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
+      "models/rhythm-and-meter.md": "526124738bfca50a34f3e67972f50ed9126bcd25241196aa3cff0f1828ddf84c",
+      "models/source-filter-voice-production.md": "070fd10fbfd87bb74ffc147ccece414a5b465ae6f7ba8414c0f51b059eb42796",
+      "practices/first-singing-session.md": "36147c5ccdc7b2513cb4184ff9db1d16dac3be5917cfda31e6c88ad0b684f89b",
+      "practices/match-a-reference-pitch.md": "382b1f06c42ef0181f7f5b6035c03923c9602fa98f82f72602c743a57c06800d",
+      "references/betts-2022-process-of-breathing.md": "c887812f063dc083bbe2a1b19e71b0c5ffa26301b92ceeb5873ebaeaed9c19aa",
+      "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93",
+      "references/wolfe-undated-singing-mechanics.md": "250b78d1fe5a13c4bb8e86a3452906df7ae3392b6ed9c8cbe8200bc0ecd31034"
+    },
+    "models/rhythm-and-meter.md": {
+      "concepts/beat-and-rhythm.md": "1811ff6119c1d6252ee86734612795b2a135d466e321aa921f5899447cb526fe",
+      "models/articulatory-speech-sounds.md": "a679050bd4326acb070495e145164bbf9b3a61fac3de25363911d93a2daba175",
+      "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
+      "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
+      "models/respiratory-phonatory-system.md": "d152f4b03ca5262cca0b4e415600be2c0ed9eccdd38da8e65c44d96ab0987466",
+      "models/tonal-organisation.md": "14bcc3aaeaad5e833f6e42cf60a0460649a2b4e894a81b9ec24dac6d67dd085b",
+      "practices/first-singing-session.md": "36147c5ccdc7b2513cb4184ff9db1d16dac3be5917cfda31e6c88ad0b684f89b",
+      "references/open-music-theory-undated-compound-meter.md": "f4dc432d68c406f1945879584c07fead14f82905ad5cbfe47f9d0f32631c507d",
+      "references/open-music-theory-undated-notating-rhythm.md": "141291840def4b2f94756aa136c793f95b05c2535d78d83e1d373cb84735ba19",
+      "references/open-music-theory-undated-simple-meter.md": "93c9d4f40532667254de327c2473537fcea0151abfca7909286910059e186d23"
+    },
+    "models/source-filter-voice-production.md": {
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "concepts/voice-production.md": "7552245b4db24d976981fbcc70bc2917cad07914b6b1a1be7e0931cbb395f31c",
+      "models/articulatory-speech-sounds.md": "a679050bd4326acb070495e145164bbf9b3a61fac3de25363911d93a2daba175",
+      "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
+      "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
+      "models/respiratory-phonatory-system.md": "d152f4b03ca5262cca0b4e415600be2c0ed9eccdd38da8e65c44d96ab0987466",
+      "practices/match-a-reference-pitch.md": "382b1f06c42ef0181f7f5b6035c03923c9602fa98f82f72602c743a57c06800d",
+      "references/wolfe-2016-measured-source-filter.md": "41cc1227816ae6587d35c7dc88c48f9f9d93058cfdb1deadf7c8284a103bb54e",
+      "references/wolfe-undated-singing-mechanics.md": "250b78d1fe5a13c4bb8e86a3452906df7ae3392b6ed9c8cbe8200bc0ecd31034"
+    },
+    "models/tonal-organisation.md": {
+      "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
+      "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
+      "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
+      "models/rhythm-and-meter.md": "526124738bfca50a34f3e67972f50ed9126bcd25241196aa3cff0f1828ddf84c",
+      "practices/match-a-reference-pitch.md": "382b1f06c42ef0181f7f5b6035c03923c9602fa98f82f72602c743a57c06800d",
+      "references/open-music-theory-undated-aspn.md": "c7fca0b8c4ee074c8a7aa0ce9957134c67438c2e4ffbe2de6f043281111460ae",
+      "references/open-music-theory-undated-major-scales.md": "8f687782dd68b400ad5d7e3f47dcd5f7c138dc9d7d0a5c9d9b371498383e30c6",
       "references/wolfe-undated-note-frequencies.md": "71c26ee4a2a493557a820c234a0998cb39c29b6b7ed86b30560c061fc4df2b23"
     },
     "practices/first-singing-session.md": {
@@ -51,8 +119,8 @@
       "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
       "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
       "methods/reference-pitch-comparison.md": "b44e3cc8f0f9c940b8ce6426ccf05384a19d2060c460a51375bbeb3d0f963b7c",
-      "models/auditory-vocal-pitch-matching.md": "72a7c81f2acb72fce11d5a04711826b2e3b28e4034bedc1321c4a7ef9a7cc4d2",
-      "models/pitch-relationships.md": "63585af5823a542ec7b3c4fe4bd321a03f445928652caf3c59b50add011ff8fe",
+      "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
+      "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
       "references/blanco-2021-pitch-matching-feedback.md": "dbdc1eeb2f2e76938abb191b3853860147acbb87fc35dad1917a2f9920d44853",
       "references/nats-undated-voice-pedagogy-syllabus.md": "c278259acc7829ab7c5f1de05dbd32e3b02fe19b942fa05da3baf322515d029b",
       "references/nidcd-2025-taking-care-of-your-voice.md": "d64adc197379cd4fdd53ed38fc14f634fe6c4254cf09620aa6cc808934863a93",
