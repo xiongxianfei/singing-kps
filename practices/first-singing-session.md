@@ -1,7 +1,7 @@
 ---
 id: "sing:practice:first-singing-session"
 type: "practice"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -27,6 +27,12 @@ This short task is for someone with no previous singing instruction. Start with 
 Choose a quiet place and use your natural, comfortable speaking volume. A phone recorder is optional. Do not attempt the vocal stages if your voice is currently hoarse, painful, unusually tired or strained; rest and seek clinical advice if voice problems persist. Avoid forcing high or low notes, prolonged breath holding, loud projection and repeating until fatigued. See the [NIDCD safety record](../references/nidcd-2025-taking-care-of-your-voice.md).
 
 Stage order is **recommended**, not an obligation to finish in one sitting. The actual **prerequisite** for continuing to a vocal stage is that the previous sounds felt comfortable. If an exercise is painful, stop rather than adapting it through force. Choose rest or qualified individual instruction when the safe entry condition is not met.
+
+## Session illustration
+
+![Four stages: check voice comfort with normal speech and a gentle hum; explore a start, slightly higher, back contour; tap four beats and speak la on the first three; combine and review comfort, pitch direction and timing. Stop vocal work if comfort is uncertain.](../diagrams/first-singing-session-overview.png)
+
+The pictures summarise the steps below. The phone illustrates optional recording; no device is required. Continue only while comfortable.
 
 ## Stage map
 
@@ -68,6 +74,10 @@ Stage order is **recommended**, not an obligation to finish in one sitting. The 
 
 ## Stage4 Combine and review
 
+![Three separate hums aligned with four evenly spaced beats: start on beat one, slightly higher on beat two, back near the starting pitch on beat three, and silence on beat four. Four tap markers continue through the silent beat.](../diagrams/first-singing-session-pattern.png)
+
+Circle height shows pitch direction, not loudness or a measured interval. The first and third circles show the intended return toward the starting pitch; they are not measured results. The gold marks show the continuing beat, including the silent fourth beat.
+
 **Steps**
 
 1. Tap four comfortable beats. On beat one hum the starting note, on beat two hum slightly higher, on beat three return toward the starting note, and on beat four stay silent. Rest after the pattern.
@@ -93,3 +103,5 @@ No learner attempt, success, injury or practice result has been observed or reco
 ## Source basis and limits
 
 [NIDCD Taking Care of Your Voice](../references/nidcd-2025-taking-care-of-your-voice.md) supports the general voice-production explanation and safety boundaries. [Open Music Theory Sight Singing](../references/open-music-theory-undated-sight-singing.md) recommends slowing down and separating rhythm from pitch when they interfere with one another. The starting pitch, pattern, stage order, pacing and checklist are local teaching choices. The sources do not establish this exercise as an optimal method, a therapeutic protocol or a measured improvement programme.
+
+The two original AI-generated illustrations explain this existing task; they add no new vocal procedure, observed performance or evidence of effectiveness. Generation prompts are saved for the [session overview](../diagrams/first-singing-session-overview.prompt.txt) and [pitch and beat pattern](../diagrams/first-singing-session-pattern.prompt.txt).
