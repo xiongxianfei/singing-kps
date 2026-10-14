@@ -15,6 +15,10 @@ Locate a singing question in the wider subject, then see the explanation availab
 
 This authored outline brings together voice pedagogy, musical understanding and practice. It selects established subjects for a beginner-facing library and aligns current explanations with them. The subject divisions describe knowledge; [First singing session](../practices/first-singing-session.md) owns its activity sequence and entry conditions. Topics can share explanations across the five KPS role folders.
 
+![Singing subject map connecting voice production and breathing, vocal health, listening and pitch, rhythm and meter, resonance and timbre, registers and range, articulation and diction, notation and sight singing, songs and expression, and practice and feedback](../diagrams/subject-map.png)
+
+The illustration previews the ten subjects below. Lines show associations, not a required learning order; the singer and musical motifs identify subjects rather than prescribe posture, technique or exercises. Coverage and gaps remain in the written table. This original AI-generated illustration was created with the built-in image generation tool; its [generation prompt](../diagrams/subject-map.prompt.txt) is retained beside the PNG.
+
 ## Scope and reading
 
 The implemented scope remains comfortable voice awareness, pitch direction, beat and a short humming task. The broader outline provides orientation for questions and future development; a gap is not an instruction to attempt an unfamiliar technique or a commitment to build a complete curriculum. Clinical assessment, rehabilitation, professional voice teaching and comprehensive coverage of musical traditions are outside this package.
