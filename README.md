@@ -1,6 +1,6 @@
 ---
 language: "KPS 9.x"
-package_version: "0.2.0"
+package_version: "0.3.0"
 status: "draft"
 ---
 
@@ -25,6 +25,12 @@ Read [First singing session](practices/first-singing-session.md). It offers a ge
 For an external target, use [Match a reference pitch](practices/match-a-reference-pitch.md): choose a comfortable bundled tone, listen, attempt, compare and decide. Only audio playback is required; recording and tuning tools are optional. Start with [the reference bank](media/reference-pitches/README.md) when checking playback. An uncertain comparison is a valid result, not a reason to keep guessing.
 
 Do not practise through pain, hoarseness, illness-related voice changes or persistent vocal fatigue. The [NIDCD voice care guidance](references/nidcd-2025-taking-care-of-your-voice.md) identifies warning signs and when to seek professional help.
+
+## Model architecture
+
+The [Singing Model architecture](docs/model-architecture.md) connects all 24 outline topics while distinguishing implemented explanations from remaining gaps. Seven Models form the first groups: physical production and acoustic shaping; speech-sound articulation; pitch, rhythm/metre and major-scale context; and auditory-vocal matching. The [collection and boundary decisions](docs/model-architecture.md#current-model-collection-and-boundary-decisions) give each entry point and explain why topics are combined or separated.
+
+The two existing pitch Models are refined rather than replaced. Worked cases connect quantities and decisions without prescribing new vocal exercises. Text setting, individual/register and song demands, broader performance, and durable learning remain development questions, not completed coverage. A beginner does not have to study every Model before using the existing Practices.
 
 ## Knowledge coverage
 
