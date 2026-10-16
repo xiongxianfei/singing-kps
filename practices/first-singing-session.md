@@ -1,7 +1,7 @@
 ---
 id: "sing:practice:first-singing-session"
 type: "practice"
-version: "0.1.1"
+version: "0.2.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -53,6 +53,8 @@ The pictures summarise the steps below. The phone illustrates optional recording
 
 ## Stage2 Explore pitch direction
 
+Here [pitch](../concepts/pitch.md) means perceived highness or lowness; louder does not mean higher. We choose a contour—start, higher, back—because this task explores direction without requiring an external target or note names. It cannot tell you whether you matched a particular musical note. That would need a reference comparison, not a more exaggerated contour.
+
 **Steps**
 
 1. Gently hum your easy starting pitch for a moment, then pause.
@@ -60,9 +62,11 @@ The pictures summarise the steps below. The phone illustrates optional recording
 3. Say or jot down the shape you intended: **start, higher, back**. If you have a recorder, capture one attempt and listen for a clear rise followed by a return toward the start.
 4. If you are unsure which sound was higher, do not force a bigger change. Rest, try a comfortable spoken **mm-hmm** inflection, or ask another person to demonstrate. If voice comfort becomes uncertain, stop.
 
-**Interpretation:** Hearing a rise and return is a useful observation, but it does not yet show accurate matching to an external musical pitch. [Pitch](../concepts/pitch.md) explains the difference.
+**Interpretation:** Report what you heard separately from what you intended. Intending start, higher, back does not establish that the sounds followed that shape. Unclear direction is a reason to listen or seek a demonstration, not to become louder.
 
 ## Stage3 Feel four beats
+
+The [beat](../concepts/beat-and-rhythm.md) is the recurring pulse; the rhythm places sounds and silence within it. Tapping keeps a pulse available while you place the three syllables. Keep the fourth tap even though there is no syllable: silence occupies time too. Spoken syllables let you attend to placement without also matching sung pitches.
 
 **Steps**
 
@@ -70,7 +74,7 @@ The pictures summarise the steps below. The phone illustrates optional recording
 2. Speak **la** quietly on beats one, two and three; stay silent on four. This is a rhythm exercise, not a vocal range exercise.
 3. If the beats feel uneven, remove the **la** and tap alone, more slowly. Repeat the pattern once only if comfortable.
 
-**Interpretation:** Three sounds plus a rest form a rhythm within the recurring pulse. [Beat and rhythm](../concepts/beat-and-rhythm.md) explains both parts.
+**Interpretation:** Roughly even tapping and three syllables in their intended places are separate observations. Neither establishes accurate singing pitch, and counting four numbers alone does not establish even spacing.
 
 ## Stage4 Combine and review
 
@@ -81,9 +85,11 @@ Circle height shows pitch direction, not loudness or a measured interval. The fi
 **Steps**
 
 1. Tap four comfortable beats. On beat one hum the starting note, on beat two hum slightly higher, on beat three return toward the starting note, and on beat four stay silent. Rest after the pattern.
-2. If combining pitches and tapping is difficult, practise the pitch direction without a pulse or the tapping without sung pitch. Recombine only when both feel manageable; slowing down is acceptable.
-3. If possible, record one attempt and listen once. Note **voice comfort yes or no**, **contour up then down or uncertain**, and **pulse roughly even or uncertain**. Without a recording, mark the observations as unaided and uncertain where necessary.
-4. Choose one next action: **stop and rest** if anything felt strained; revisit Stage2 for uncertain pitch direction; revisit Stage3 for timing; or try one easy recording on another day if comfortable.
+2. If combining pitches and tapping is difficult, practise the pitch direction without a pulse or the tapping without sung pitch. Recombine only when both feel manageable; slowing down is acceptable. Separating them removes one demand so you can observe the other; it does not diagnose why the combined attempt was difficult.
+3. If possible, record one attempt and listen once. Note **voice comfort yes, unsure or no**, **contour up then down or uncertain**, and **pulse roughly even or uncertain**. Judge comfort from your experience, not from how the recording sounds. Without a recording, mark the observations as unaided and uncertain where necessary.
+4. Choose one next action: **stop vocal work and rest** for comfort unsure or no, including strain; otherwise revisit Stage2 for uncertain pitch direction, revisit Stage3 for timing, or try one easy recording on another day if comfortable. Do not repeat the whole sequence merely because one observation is unclear.
+
+For example, if the contour is clear but the fourth tap arrives early, return to tapping through the silent beat. Making the middle hum higher would not address the timing observation. This is an authored decision example, not a recorded learner result.
 
 **Synthetic example log**
 

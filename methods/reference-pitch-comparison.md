@@ -1,7 +1,7 @@
 ---
 id: "sing:method:reference-pitch-comparison"
 type: "method"
-version: "0.1.0"
+version: "0.2.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -29,14 +29,20 @@ Use a playable, identified reference, a quiet setting and a pitch that can be at
 
 The study's baseline allowed another decision after replaying the target. The useful comparison is between produced and intended pitch, not between their loudness or timbre. Replaying restores an external anchor; it does not guarantee that a beginner can hear the error. Our short attempts, four report labels and uncertainty exit are local teaching adaptations.
 
+[Pitch](../concepts/pitch.md) is perceived highness or lowness; [intonation](../concepts/intonation.md) concerns its accuracy relative to a target. Keep the target fixed across an attempt and its comparison. Otherwise a different reference could make the same attempt seem closer without any change in the voice. Comparing only successive attempts can reveal a change, but cannot establish that either matched the intended target.
+
+There are two sounds to account for: the reference and the attempt. Reference replay restores the first, not the second. Without a recording, the comparison relies on memory of the attempt. If that memory is unclear, another reference replay alone cannot recover what was sung. A usable recording preserves an attempt for listening; a pitch display estimates the captured signal. Neither automatically makes the judgment correct or identifies a vocal mechanism.
+
 ## Procedure
 
 1. Identify the reference file. Listen while silent, then let playback finish. Keep the intended height in mind; no note naming is necessary.
 2. On a normal breath, make one brief, easy hum or vowel sound aiming for that height. Stop rather than holding it until you run out of breath. Do not copy an electronic tone colour.
-3. Replay the same reference while silent. Compare its height with the reasonably steady part of the attempt. Use **approximately matching**, **higher**, **lower** or **uncertain** to describe the voice relative to the reference. Include uncertainty about an octave or an unstable note.
+3. Replay the same reference while silent. Compare its height with the reasonably steady part of the attempt, remembered or recorded. Use **approximately matching**, **higher**, **lower** or **uncertain** to describe the voice relative to the reference. Include uncertainty about memory, an octave or an unstable note. A shared note letter does not establish the same height: an octave above or below is a different pitch height.
 4. If a small direction difference is clear and the voice remains comfortable, make one small correction after a pause and compare again. If unclear, replay once without singing; if still unclear, retain uncertain and stop or seek additional feedback. Do not alternate random corrections.
 
 The [Match a reference pitch Practice](../practices/match-a-reference-pitch.md) supplies audio selection, worked listening comparisons and a blank record. The operation above remains usable without opening that link.
+
+In an authored example, an attempt seems slightly higher than the unchanged reference. A small downward retry follows that report; singing louder would not address the reported height difference. Compare the new attempt again rather than treating an intended correction as a successful correction. If the first attempt cannot be remembered clearly, report uncertain instead: there is no supported direction to correct. These are decision examples, not observed improvements.
 
 ## Optional feedback
 

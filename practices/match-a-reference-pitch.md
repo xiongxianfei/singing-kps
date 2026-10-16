@@ -1,7 +1,7 @@
 ---
 id: "sing:practice:match-a-reference-pitch"
 type: "practice"
-version: "0.1.1"
+version: "0.2.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -25,7 +25,7 @@ Listen to an easy reference, make a brief attempt, compare it and record approxi
 
 This ear-first task requires only a phone or computer that can play the bundled audio. A microphone, recorder, tuner, piano, notation reading and note naming are optional or unnecessary. The output is a reference ID, an honest comparison and a next action, not a guaranteed accurate note. Completing the observation loop with uncertain is legitimate; it does not mean pitch matching has been mastered.
 
-**Pitch** means how high or low a sound seems. A **reference** is the target sound you choose. Match its height, not its electronic tone colour, volume or length. An **octave** is a higher or lower version with the same note letter: A3 and A4 are related but not the same height. This task aims at the same height, sometimes called a unison.
+**[Pitch](../concepts/pitch.md)** means how high or low a sound seems. A **reference** is the target sound you choose. Match its height, not its electronic tone colour, volume or length. An **octave** is a higher or lower version with the same note letter: A3 and A4 are related but not the same height. This task aims at the same height, sometimes called a unison.
 
 ## Starting conditions
 
@@ -72,6 +72,8 @@ When comparing your attempt below, higher and lower will mean **your voice relat
 
 ## Stage3 Listen and reproduce one note
 
+Use [reference pitch comparison](../methods/reference-pitch-comparison.md) here because the goal is to match an identified external sound. Free humming or a rising-and-falling contour can explore direction but supplies no fixed target for this judgment. We separate playback and singing so the reference and attempt are distinguishable events. This leaves a memory demand; it is a practical starting choice, not a claim that sequential imitation is best for everyone.
+
 1. Return to the selected reference, listen while silent, and let the file end. Hold the height briefly in mind. Replay it if you lose the target; no perfect memory is required.
 2. On an ordinary breath, gently hum mm or sing a comfortable oo for about one second, aiming for that height. Release and breathe normally. The suggested second is only a short-attempt cue; stop sooner for discomfort. You need not reproduce the full recording length.
 3. Pause. Do not stretch a note or sing over a looping reference until it blends. If the attempt felt uncomfortable, stop vocal work and go to the record; comfort takes precedence over completing a comparison.
@@ -80,7 +82,7 @@ The task involves hearing, retaining a target and organising a vocal action. Tro
 
 ## Stage4 Compare and choose the next step
 
-1. Replay the reference while silent. Compare it with the reasonably steady part of your attempt, ignoring the start and release. A brief crossing of the target during a slide does not establish a steady match.
+1. Replay the same reference while silent. Compare it with the reasonably steady part of your attempt, ignoring the start and release. Without a recording you are comparing from memory; if you no longer recall the attempt clearly, mark uncertain. Replaying the reference does not recover the earlier attempt. A brief crossing of the target during a slide does not establish a steady match.
 2. Select one report below. When unsure of direction, octave, memory or steadiness, choose **uncertain**, not approximately matching by default.
 3. Follow the corresponding action. After a clear small mismatch, one further comfortable attempt is enough for this first session. If repeated comparison is unclear, stop rather than accumulating repetitions. A new target must be recorded as new; changing it does not retroactively make the old attempt correct.
 
@@ -91,9 +93,9 @@ The task involves hearing, retaining a target and organising a vocal action. Tro
 | Lower | The voice seems below the target | For a small difference, aim a little higher on one fresh attempt; for a large or suspected octave difference, recheck comfort and reference choice instead of pushing up |
 | Uncertain | Direction, octave, memory of the sound or the steady portion cannot be judged | Listen again without singing; if still unclear, record uncertainty and finish; optional recording or later human feedback may help |
 
-**Optional recording:** Record only when convenient on the same device. A reference, pause, attempt and reference replay should be separate audible events. If playback interrupts recording, record the attempt alone and alternate listening, or skip recording. Listen at normal speed and keep the recording private. One device is enough; recording is not a prerequisite.
+**Optional recording:** Choose this when remembering the attempt is the obstacle and recording is convenient. It lets you revisit the actual sound; it does not guarantee that you can judge its pitch. On the same device, a reference, pause, attempt and reference replay should be separate audible events. If playback interrupts recording, record the attempt alone and alternate listening, or skip recording. Listen at normal speed and keep the recording private. One device is enough; recording is not a prerequisite.
 
-**Optional tuner:** First play the reference alone and check that the displayed Hz agrees approximately with the table. Stop playback before singing. Compare the steady portion of your voice, including octave or frequency, not only a letter or colour. A jumping, doubled/halved or conflicting reading stays uncertain. Do not force the voice to follow a screen. More detail is in the [comparison Method](../methods/reference-pitch-comparison.md); no tool is required here.
+**Optional tuner:** Choose this as a frequency cross-check when listening leaves the height comparison unclear and a usable display is already available. First play the reference alone and check that the displayed Hz agrees approximately with the table. Stop playback before singing. Compare the steady portion of your voice, including octave or frequency, not only a letter or colour. A jumping, doubled/halved or conflicting reading stays uncertain. Do not force the voice to follow a screen. More detail is in the comparison Method linked in Stage3; no tool is required here.
 
 **Constructed decisions, not learner results:** A comfortable attempt that clearly sounds slightly higher leads to a small downward retry. An attempt that sounds related but may be an octave lower leads to uncertain and a reference check, not an automatic pass. Pain leads to stopping regardless of whether the note sounded right.
 
