@@ -1,6 +1,6 @@
 ---
 language: "KPS 9.x"
-package_version: "0.3.0"
+package_version: "0.4.0"
 status: "draft"
 reviewed: null
 ---
@@ -15,7 +15,7 @@ Use complementary Models to explain musical targets, physical production and per
 
 This architecture connects the 24 directly named topics in the [Body of Knowledge Outline](body-of-knowledge-outline.md) to purposeful explanatory Models and explicit remaining gaps. The first implemented groups contain seven Models: the two existing pitch Models refined in place and five new explanations of production, articulation, time and major-scale context. The groups are cross-cutting development views, not a replacement hierarchy, a compulsory reading sequence or a claim that every topic needs its own file.
 
-The integration is an authored KPS design. The disciplinary relationships within each Model have their own source records and limits. No single source establishes this complete architecture, and no institution is claimed to endorse it. The actual vocal activities remain the two existing [beginner Practices](../README.md#start-here), requiring only a phone or computer for reference playback where applicable.
+The integration is an authored KPS design. The disciplinary relationships within each Model have their own source records and limits. No single source establishes this complete architecture, and no institution is claimed to endorse it. The three [beginner Practices](../README.md#start-here) supply activity decisions. [Learn and perform a song](../practices/learn-and-perform-a-song.md) adds initial song selection, phrase work and performance review; it does not complete the explanatory Models marked as pending below.
 
 ## Purpose and explanatory boundaries
 

@@ -17,7 +17,7 @@ These instructions apply repository-wide to knowledge, code, tools and workflows
 
 ## Project purpose
 
-Help beginners understand singing and undertake a comfortable, observable first task. Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) for required topics, depth, relationships and coverage gaps; use [First singing session](practices/first-singing-session.md) for activity order and entry conditions. The wider outline does not expand the implemented beginner scope or certify a singer's competence.
+Help beginners understand singing and undertake comfortable, observable tasks, from initial sounds to preparing a suitable song. Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) for required topics, depth, relationships and coverage gaps; use [First singing session](practices/first-singing-session.md) or [Learn and perform a song](practices/learn-and-perform-a-song.md) for the selected task's activity order and entry conditions. The wider outline does not expand the implemented beginner scope or certify a singer's competence.
 
 ## Core Engineering Principles
 
