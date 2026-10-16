@@ -1,7 +1,7 @@
 ---
 id: "sing:reference:blanco-2021-feedback"
 type: "reference"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -10,8 +10,8 @@ creators: "Angel David Blanco, Simone Tassani and Rafael Ramirez"
 source_type: "primary experimental study"
 url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.684693/full"
 date_basis: "Publisher displays 8 July 2021; Frontiers in Psychology 12:684693"
-accessed: "2026-10-14"
-access_extent: "Publisher HTML: Introduction; sections 2.1 to 2.4; Results and Discussion. Raw audio, data and code were not reanalysed."
+accessed: "2026-10-16"
+access_extent: "2026-10-16: publisher HTML section 2.3 Baseline and Acquisition procedures, and Discussion paragraphs on feedback and transfer. Prior 2026-10-14 inspection: Introduction, sections 2.1 to 2.4, Results and Discussion. Raw audio, data and code were not reanalysed."
 evidence_family: "Effects of Visual and Auditory Feedback in Violin and Singing Voice Pitch Matching Tasks"
 publication_year: 2021
 doi: "10.3389/fpsyg.2021.684693"
@@ -25,7 +25,7 @@ A laboratory reference-replay task supports a comparison procedure, not a guaran
 
 ## Summary
 
-Blanco, Tassani and Ramirez (2021), Frontiers in Psychology 12:684693, DOI 10.3389/fpsyg.2021.684693. [Publisher article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.684693/full), inspected 2026-10-14 within the metadata scope.
+Blanco, Tassani and Ramirez (2021), Frontiers in Psychology 12:684693, DOI 10.3389/fpsyg.2021.684693. [Publisher article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.684693/full), re-inspected 2026-10-16 within the narrower metadata scope.
 
 ## Located contribution
 

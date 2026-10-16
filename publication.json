@@ -1,6 +1,6 @@
 {
   "package": "singing-kps",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "status": "draft",
   "kps_language": "9.x",
   "validated_with": "9.1.0",
@@ -11,6 +11,6 @@
   "core_source_commit": "6a6e7aedc24581769fad435f4943856c1060e02a",
   "independent": true,
   "reference_is_supporting_record": true,
-  "scope": "Absolute beginner: two comfortable listening and singing Practices with explanatory Models of production, articulation, musical coordinates and auditory-vocal matching; broader coverage remains partial",
+  "scope": "Beginner: three Practices covering initial contour/rhythm, single-reference pitch matching and preparing a suitable song; seven explanatory Models support selected mechanisms and musical relationships; broader coverage remains partial",
   "reviewed": null
 }

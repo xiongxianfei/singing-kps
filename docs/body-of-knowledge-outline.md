@@ -1,6 +1,6 @@
 ---
 language: "KPS 9.x"
-package_version: "0.3.0"
+package_version: "0.4.0"
 status: "draft"
 reviewed: null
 ---
@@ -23,7 +23,7 @@ The [Model architecture](model-architecture.md) maps every topic to current expl
 
 **Audience:** beginners learning to understand singing and approach a suitable song. No notation reading, prior training or fixed vocal range is assumed. Learning by listening and imitation is included; Western notation and sight singing form an optional reading branch.
 
-**Target:** explain what a singing task asks, distinguish pitch, timing, words and expression, and make informed learning choices. Required capabilities below are goals, not demonstrated learner results or a compulsory lesson sequence. The current Practices still implement only a first contour/rhythm task and single-reference pitch matching.
+**Target:** explain what a singing task asks, distinguish pitch, timing, words and expression, and make informed learning choices. Required capabilities below are goals, not demonstrated learner results or a compulsory lesson sequence. The current Practices implement a first contour/rhythm task, single-reference pitch matching and [preparing a suitable song](../practices/learn-and-perform-a-song.md). Song-level guidance is introductory; the detailed explanatory gaps below remain.
 
 The existing [starting conditions](../practices/first-singing-session.md#starting-conditions) govern vocal activities. Do not sing through pain, hoarseness or unusual fatigue; persistent voice problems call for clinical advice. Comfort is an observation, not medical clearance. The [voice-care Reference](../references/nidcd-2025-taking-care-of-your-voice.md) supplies the existing boundaries. This outline adds no vocal exercise or treatment.
 
@@ -207,7 +207,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Text and musical timing | Coordination of consonants, vowel duration, syllables and musical accents | Explain how a word fits a rhythmic phrase while remaining intelligible. | **Missing:** no local text-setting or diction lesson. The Practice's spoken syllable is only a timing example. |
+| Text and musical timing | Coordination of consonants, vowel duration, syllables and musical accents | Explain how a word fits a rhythmic phrase while remaining intelligible. | **Partial:** [Song difficulty choices](../practices/learn-and-perform-a-song.md#stage4-work-on-the-observed-difficulty) separate text, rhythm and melody before recombining them. A systematic text-setting account and language-specific examples remain missing. |
 
 ## Auditory vocal pitch matching
 
@@ -310,7 +310,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Pronunciation and meaning | Language-specific pronunciation, syllables, word stress and understanding the text | Explain the meaning and intended pronunciation of a selected phrase using an appropriate language reference. | **Source only:** [Trinity diction context](../references/trinity-2026-singing-syllabus.md). Language-specific sources and explanations missing. |
+| Pronunciation and meaning | Language-specific pronunciation, syllables, word stress and understanding the text | Explain the meaning and intended pronunciation of a selected phrase using an appropriate language reference. | **Partial:** [Understand the whole song](../practices/learn-and-perform-a-song.md#stage2-understand-the-whole-song) connects meaning and pronunciation checks to interpretation. Language-specific sources and detailed diction explanations remain missing; [Trinity](../references/trinity-2026-singing-syllabus.md) supplies the assessment context. |
 
 ## Dynamics and vibrato
 
@@ -338,7 +338,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Repertoire selection | Musical demands, text, pitch placement, length and suitability for the learner | Justify choosing or adapting a short song against current abilities and available support. | **Source only:** [NATS](../references/nats-undated-voice-pedagogy-syllabus.md) and [Trinity](../references/trinity-2026-singing-syllabus.md). Local selection guidance missing. |
+| Repertoire selection | Musical demands, text, pitch placement, length and suitability for the learner | Justify choosing or adapting a short song against current abilities and available support. | **Partial:** [Choose the song and version](../practices/learn-and-perform-a-song.md#stage1-choose-the-song-and-version) considers pitch placement, timing, words, references and comfort. [Rockschool repertoire](../references/rsl-undated-vocals-grade-1.md) supports the example choice. A detailed demand-suitability Model remains missing. |
 
 ## Phrasing
 
@@ -352,7 +352,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Phrasing and expression | Musical grouping, text meaning, breath opportunities, dynamics and intended communication | Explain an interpretive choice and how it affects the shape of a phrase. | **Missing:** no local song-interpretation account; the humming pattern does not cover phrasing in a song. |
+| Phrasing and expression | Musical grouping, text meaning, breath opportunities, dynamics and intended communication | Explain an interpretive choice and how it affects the shape of a phrase. | **Partial:** [Connect phrases and communicate](../practices/learn-and-perform-a-song.md#stage5-connect-phrases-and-communicate) gives initial decisions about boundaries, words, breath opportunities and expression. A developed Phrasing Model and style-specific accounts remain missing. |
 
 ## Style and musical context
 
@@ -366,7 +366,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Style and musical context | Listening to appropriate examples, tradition-specific conventions and different valid interpretations | Identify a stylistic choice with its context rather than treating one tone ideal as universal. | **Source only:** Trinity interpretation context. Genre-specific accounts and lawful listening examples missing. |
+| Style and musical context | Listening to appropriate examples, tradition-specific conventions and different valid interpretations | Identify a stylistic choice with its context rather than treating one tone ideal as universal. | **Partial:** the [song Practice](../practices/learn-and-perform-a-song.md) links a listening option and distinguishes intended simplification from copying a recording. Trinity supplies interpretation context; genre-specific explanatory accounts remain missing. |
 
 ## Singing with others and presenting
 
@@ -380,7 +380,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Singing with others and presenting | Starts, endings, accompaniment, listening balance and communicating a prepared performance | Explain how to coordinate a short prepared piece with another musician or a backing reference. | **Missing:** no local accompaniment, ensemble or performance Practice. These are selected future applications. |
+| Singing with others and presenting | Starts, endings, accompaniment, listening balance and communicating a prepared performance | Explain how to coordinate a short prepared piece with another musician or a backing reference. | **Partial:** [Perform and review](../practices/learn-and-perform-a-song.md#stage6-perform-and-review), with entrance, ending and accompaniment preparation in Stage5. Interactive ensemble coordination and a full performance Model remain missing. |
 
 ## Melody harmony and musical form
 
@@ -394,7 +394,7 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Melody harmony and musical form | Ordered melodic relationships, simultaneous or accompanying pitches, and organisation into phrases and sections | Explain which part of a short song question concerns melody, accompaniment or larger grouping. | **Missing:** focused melodic, harmonic and formal accounts. The existing contour exercise does not supply song analysis; source selection must follow the repertoire and tradition. |
+| Melody harmony and musical form | Ordered melodic relationships, simultaneous or accompanying pitches, and organisation into phrases and sections | Explain which part of a short song question concerns melody, accompaniment or larger grouping. | **Partial:** [Verse and chorus](../concepts/verse-and-chorus.md) explains returning music versus section function, including refrain boundaries. [Identify song sections](../methods/identify-song-sections.md) explains how to compare passages and check a provisional map. [Understand the whole song](../practices/learn-and-perform-a-song.md#stage2-understand-the-whole-song) supplies a labelled textual comparison and supported listening before independent recognition. Detailed melodic, harmonic and broader formal accounts remain missing; no song transcription, verified timing or harmonic analysis is supplied. |
 
 ## Learning and feedback
 
@@ -408,8 +408,8 @@ The overview gives every listed topic the same visual level. Selected connection
 
 | Topic | Understand — required knowledge | Be able to do — introductory depth | Existing explanations and gaps |
 |---|---|---|---|
-| Choosing a practice task | A specific learning question, prerequisites and a manageable task | Name one aspect to work on and explain why the chosen task addresses it. | **Partial:** [First singing session](../practices/first-singing-session.md) and [Match a reference pitch](../practices/match-a-reference-pitch.md) distinguish contour/timing from a single external target. Wider task-selection guidance is missing. |
-| Separating and combining skills | Pitch, timing and text demands; moving from a component to a phrase | Identify an interfering demand and explain how a simpler task relates to the whole song. | **Partial:** [Combine and review](../practices/first-singing-session.md#stage4-combine-and-review), supported by the sight-singing Reference. Song-level examples missing. |
+| Choosing a practice task | A specific learning question, prerequisites and a manageable task | Name one aspect to work on and explain why the chosen task addresses it. | **Partial:** [First singing session](../practices/first-singing-session.md) and [Match a reference pitch](../practices/match-a-reference-pitch.md) distinguish contour/timing from a single external target. [Song difficulty choices](../practices/learn-and-perform-a-song.md#stage4-work-on-the-observed-difficulty) extend this to phrases and transitions; no universal selection algorithm is claimed. |
+| Separating and combining skills | Pitch, timing and text demands; moving from a component to a phrase | Identify an interfering demand and explain how a simpler task relates to the whole song. | **Partial:** [Combine and review](../practices/first-singing-session.md#stage4-combine-and-review), supported by the sight-singing Reference. The [song Practice](../practices/learn-and-perform-a-song.md#stage4-work-on-the-observed-difficulty) adds a constructed verse–chorus transition case and restoration of words/timing after component work. No learner transfer result is established. |
 | Observations and recording limits | Listening notes, teacher feedback, recording conditions, privacy and measurement uncertainty | Separate what was heard or felt from its interpretation and explain what a recording cannot establish. | **Partial:** [Reference pitch comparison](../methods/reference-pitch-comparison.md) supplies optional same-device recording, octave-aware visual cross-checks, privacy and uncertainty. This is not a complete acoustic-analysis or recording course. |
 | Retention and transfer | Revisiting a skill, changes of context, dependence on cues and progress over time | Distinguish one successful attempt from repeatable use in a different suitable phrase. | **Partial:** the [matching Practice](../practices/match-a-reference-pitch.md) distinguishes one report from repeatability; [Blanco 2021](../references/blanco-2021-pitch-matching-feedback.md) records condition-specific short transfer. Longitudinal learner evidence and song-level transfer remain missing; no improvement result is claimed. |
 
