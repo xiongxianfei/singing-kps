@@ -1,7 +1,7 @@
 ---
 id: "sing:reference:omt-pop-rock-form"
 type: "reference"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -23,7 +23,7 @@ These chapters distinguish musical recurrence from section function.
 
 ## Summary
 
-This record covers four linked parts of one educational account. It supports terminology and analytical conventions, not a tested beginner coaching protocol.
+This record covers four linked parts of one educational account. Its worked comparisons and timelines support a reusable form-analysis operation as well as terminology. It does not establish a tested beginner coaching protocol.
 
 ## Located contributions
 
@@ -34,4 +34,4 @@ This record covers four linked parts of one educational account. It supports ter
 
 ## Limits
 
-The pages attribute their framework to common convention and named scholars; those underlying publications were not separately inspected. This is one source family, not four independent confirmations. No source recording was played or timed. The local comparison sequence is an authored teaching application, not a procedure prescribed or experimentally validated by these chapters.
+The pages attribute their framework to common convention and named scholars; those underlying publications were not separately inspected. This is one source family, not four independent confirmations. No source recording was played or timed. The Method's listening order and uncertainty handling, and the Practice's selected example and questions, are authored adaptations, not a sequence prescribed or experimentally validated by these chapters.

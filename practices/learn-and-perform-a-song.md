@@ -1,13 +1,13 @@
 ---
 id: "sing:practice:learn-and-perform-a-song"
 type: "practice"
-version: "0.2.0"
+version: "0.3.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
 references: ["sing:reference:rsl-vocals-grade-1", "sing:reference:omt-sight-singing", "sing:reference:trinity-singing-syllabus", "sing:reference:nidcd-voice-care", "sing:reference:omt-pop-rock-form", "sing:reference:shazam-stand-by-me"]
 uses_concepts: ["sing:concept:pitch", "sing:concept:intonation", "sing:concept:beat-and-rhythm", "sing:concept:verse-and-chorus"]
-uses_methods: ["sing:method:reference-pitch-comparison"]
+uses_methods: ["sing:method:reference-pitch-comparison", "sing:method:identify-song-sections"]
 uses_models: ["sing:model:pitch-relationships", "sing:model:tonal-organisation", "sing:model:auditory-vocal-pitch-matching"]
 practice_format: "steps-first-v1"
 stage_order: "recommended; usable musical references and comfortable vocal use govern progress"
@@ -57,7 +57,7 @@ The [tonal organisation Model](../models/tonal-organisation.md) explains why con
 
 ## Stage2 Understand the whole song
 
-1. Listen through the selected version without trying to copy every note. Notice an entrance, a returning passage and the ending. You do not need to label every section yet. [Verse and chorus](../concepts/verse-and-chorus.md) differ in their role: verses commonly develop changing situations; choruses return to the central message. Both can repeat music, so listen to words and music separately.
+1. Use [Identify song sections](../methods/identify-song-sections.md) to orient phrase learning: listen through the selected version without trying to copy every note, locate possible returns, compare their words and music, then check provisional labels by replaying the transitions. This fits the need to find a verse and chorus; it does not require a full harmonic analysis. Notice an entrance, a returning passage and the ending. You do not need to label every section yet. [Verse and chorus](../concepts/verse-and-chorus.md) differ in their role: verses commonly develop changing situations; choruses return to the central message. Both can repeat music, so listen to words and music separately.
 2. Use a labelled comparison before trying to locate sections independently. For the example below, open your own recording and words, then locate the first two passages labelled Chorus in [Shazam's annotation](https://www.shazam.com/en-us/song/880423676/stand-by-me). Compare the whole passages rather than only the title. If locating them is difficult, ask a coach or teacher to point out or play the two passages in your exact version.
 
 **Worked textual comparison — Stand by Me:**
@@ -73,10 +73,10 @@ The verses change the imagined circumstances; the choruses return to the appeal.
 
 3. Replay the two labelled choruses while silent. Listen for the returning vocal pattern as well as the words; a small delivery change need not mean a new section. Then compare the two verses. Repeated melody can occur there too. New chords, a louder voice or a different tune are not required to establish a chorus. If the musical comparison is unclear, retain the supplied labels as support and ask for a demonstration; do not guess an independent conclusion.
 4. Make one small check: **In the two labelled choruses, do the words mainly return to the same appeal, or develop different situations?** A short answer is enough; unsure is useful information. The comparison above supports the first answer. This checks understanding with support, not independent section recognition. In coaching, wait for the actual reply and explain any remaining confusion before adding another question. Later, ask the learner to locate a chorus return without the labels if independent recognition matters.
-5. Sketch only enough of the selected version to orient your singing: the first verse and chorus, any later repeats or instrumental passages you can identify, and the ending. Mark uncertain boundaries as uncertain. Read the words, resolve unfamiliar pronunciation with a reliable example or teacher, and choose what you want to communicate. A request for presence and support is an initial interpretation, not the only acceptable emphasis.
+5. Sketch only enough of the selected version to orient your singing: the first verse and chorus, any later repeats or instrumental passages you can identify, and the ending. Mark uncertain boundaries as uncertain. Replay from just before each proposed start through the following phrase to check its location; record what supports the label and distinguish supplied labels from your own observations. A partial map is enough to begin. Read the words, resolve unfamiliar pronunciation with a reliable example or teacher, and choose what you want to communicate. A request for presence and support is an initial interpretation, not the only acceptable emphasis.
 6. Select one phrase and an audible cue before it, such as an accompaniment event or preceding phrase. Listen across its beginning and end. A supplied section label and a clear entrance are enough to begin phrase learning; a complete independent form analysis is not a prerequisite.
 
-This listening sequence applies [published form distinctions](../references/open-music-theory-undated-pop-rock-form.md) through an authored beginner comparison. It is kept here rather than presented as a separately established Method. For another song, choose an appropriate labelled example; not every song contains a chorus or follows this sequence.
+The Method explains the reusable analytical operation and its authored adaptations from [published form analysis](../references/open-music-theory-undated-pop-rock-form.md). This Practice supplies the selected song, labelled comparison and coaching question. Those teaching choices are not a published or validated protocol. For another song, choose an appropriate labelled example; not every song contains a chorus or follows this sequence.
 
 ## Stage3 Learn a meaningful phrase
 
