@@ -43,6 +43,7 @@ Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) to unders
 - [Pitch relationships](models/pitch-relationships.md) connects pitch height, pitch class, octave and interval in worked comparisons; it separates a matching target from a contour.
 - [Intonation](concepts/intonation.md) explains accuracy relative to a target and uncertainty in judging it.
 - [Beat and rhythm](concepts/beat-and-rhythm.md) separates the pulse from durations and silence.
+- [Verse and chorus](concepts/verse-and-chorus.md) explains section roles, recurring words and music, and why a repeated title alone does not identify a chorus.
 - [First singing session](practices/first-singing-session.md) integrates these ideas into a small task.
 - [Match a reference pitch](practices/match-a-reference-pitch.md) supplies a selectable audio reference and an observation loop.
 - [Learn and perform a song](practices/learn-and-perform-a-song.md) connects component work to a chosen arrangement and a complete-performance review.

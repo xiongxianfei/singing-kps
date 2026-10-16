@@ -17,6 +17,10 @@
       "references/open-music-theory-undated-notation.md": "3ee21cc216256de01232dcebec71d5ab2756e688df47bbc46fa5f238091c74a3",
       "references/wolfe-undated-note-frequencies.md": "71c26ee4a2a493557a820c234a0998cb39c29b6b7ed86b30560c061fc4df2b23"
     },
+    "concepts/verse-and-chorus.md": {
+      "practices/learn-and-perform-a-song.md": "77bdc6a0ed668f7ea2959e70bfcd04b5ab9c6fdb0370822307039ac2d5d6e727",
+      "references/open-music-theory-undated-pop-rock-form.md": "3d37ff582795ace721c192fded219bc7fd461ffb929e4fc608ce9520d8a442ee"
+    },
     "concepts/voice-production.md": {
       "practices/first-singing-session.md": "a7fb3f730e412bcb60a6ac17dbbfa26f676c47f064cb2120f781e61974724f8f",
       "references/nidcd-2025-taking-care-of-your-voice.md": "6c8d2f6025bddd0c866b6947d464b3c8bfac3ceeba89dc23ac6db5abf1a3bd12"
@@ -119,13 +123,16 @@
       "concepts/beat-and-rhythm.md": "1811ff6119c1d6252ee86734612795b2a135d466e321aa921f5899447cb526fe",
       "concepts/intonation.md": "7270f3925293c2528707c227cb008a336277573ff3ff1a8f2e73fb1eda1c5502",
       "concepts/pitch.md": "80a4cf45ae8a6292f4ca4c7e19766e9cc7f60e71bba8d030e7f1670c88b743fc",
+      "concepts/verse-and-chorus.md": "7de2ba699abae489fb80dca0d3c2b9ab4f184001a50b9950a8639bf7622582f1",
       "methods/reference-pitch-comparison.md": "1dda0c26d0a9aedc7c0492cf7537a4ed19b8e52d77bc730fbabd391e5e2d6c85",
       "models/auditory-vocal-pitch-matching.md": "e1fc61092fa6c4c8c1437a12482cbfcb92b3aa8808b53d80cad6e27ea9761325",
       "models/pitch-relationships.md": "7f2b1c0d5a9132572111abd91ec21c97fe7ff875f50fdcbf72742044a5d3d651",
       "models/tonal-organisation.md": "14bcc3aaeaad5e833f6e42cf60a0460649a2b4e894a81b9ec24dac6d67dd085b",
       "references/nidcd-2025-taking-care-of-your-voice.md": "6c8d2f6025bddd0c866b6947d464b3c8bfac3ceeba89dc23ac6db5abf1a3bd12",
+      "references/open-music-theory-undated-pop-rock-form.md": "3d37ff582795ace721c192fded219bc7fd461ffb929e4fc608ce9520d8a442ee",
       "references/open-music-theory-undated-sight-singing.md": "4853e0d31cf07175b285adca0af540a0fa635a1e70c05243e1b950ced0ab975f",
       "references/rsl-undated-vocals-grade-1.md": "f4ebcd39a5588082669bbd53e85954b08b891f8fd7421e6b844b4302319dc36d",
+      "references/shazam-undated-stand-by-me.md": "3d3cbd6471aeba6d4073f8a80f123f3bc6e7e83ad77cc67b701b10dc306f731d",
       "references/trinity-2026-singing-syllabus.md": "7055500c3d7995fbdd359560ffabe0fbec46d15ed93d225d6b47ad62b819cad8"
     },
     "practices/match-a-reference-pitch.md": {

@@ -1,12 +1,12 @@
 ---
 id: "sing:practice:learn-and-perform-a-song"
 type: "practice"
-version: "0.1.0"
+version: "0.2.0"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
-references: ["sing:reference:rsl-vocals-grade-1", "sing:reference:omt-sight-singing", "sing:reference:trinity-singing-syllabus", "sing:reference:nidcd-voice-care"]
-uses_concepts: ["sing:concept:pitch", "sing:concept:intonation", "sing:concept:beat-and-rhythm"]
+references: ["sing:reference:rsl-vocals-grade-1", "sing:reference:omt-sight-singing", "sing:reference:trinity-singing-syllabus", "sing:reference:nidcd-voice-care", "sing:reference:omt-pop-rock-form", "sing:reference:shazam-stand-by-me"]
+uses_concepts: ["sing:concept:pitch", "sing:concept:intonation", "sing:concept:beat-and-rhythm", "sing:concept:verse-and-chorus"]
 uses_methods: ["sing:method:reference-pitch-comparison"]
 uses_models: ["sing:model:pitch-relationships", "sing:model:tonal-organisation", "sing:model:auditory-vocal-pitch-matching"]
 practice_format: "steps-first-v1"
@@ -57,11 +57,26 @@ The [tonal organisation Model](../models/tonal-organisation.md) explains why con
 
 ## Stage2 Understand the whole song
 
-1. Listen through the selected version without trying to copy every note. Mark where sections begin, using your own timestamps or score locations. Identify the entrance, verse, chorus, any instrumental passage or repeats, and the ending actually present. A verse commonly carries developing text; a chorus returns as a recognisable section. Do not assume every recording uses the same sequence.
-2. Read the words from your own source and say what the song communicates in your own words. Resolve unfamiliar words through a reliable pronunciation example or teacher. Choose who you imagine addressing and what you want that person to understand.
-3. Mark one phrase to learn and an audible cue before it. A cue could be a count-in, an accompaniment event or the preceding phrase. Listen across its beginning and end so the phrase has a place in the song.
+1. Listen through the selected version without trying to copy every note. Notice an entrance, a returning passage and the ending. You do not need to label every section yet. [Verse and chorus](../concepts/verse-and-chorus.md) differ in their role: verses commonly develop changing situations; choruses return to the central message. Both can repeat music, so listen to words and music separately.
+2. Use a labelled comparison before trying to locate sections independently. For the example below, open your own recording and words, then locate the first two passages labelled Chorus in [Shazam's annotation](https://www.shazam.com/en-us/song/880423676/stand-by-me). Compare the whole passages rather than only the title. If locating them is difficult, ask a coach or teacher to point out or play the two passages in your exact version.
 
-For **Stand by Me**, an initial interpretation to consider is a request for another person's presence and support. Check that against the words you are using and choose your own emphasis. Use the first verse and chorus as your working section; mark their actual boundaries in your version. These are listening tasks, not supplied timing measurements. If you cannot locate a boundary or hear the melody clearly, get a demonstration rather than building on an uncertain map.
+**Worked textual comparison — Stand by Me:**
+
+| Passage in the annotation | Locator | What the words do |
+|---|---|---|
+| Verse 1 | Opening vocal section, describing darkness | Establishes the first situation. The title appears near its end, before the labelled chorus. |
+| First Chorus | Opens with “So darling” | Sustains the central appeal for the other person's presence. |
+| Verse 2 | Changes the imagined situation to sky and mountain | Develops different circumstances before returning to the appeal. |
+| Second Chorus | Opens with “And darling” | Returns to substantially the same appeal, with small wording differences. |
+
+The verses change the imagined circumstances; the choruses return to the appeal. The title's earlier appearance within a verse is why spotting that phrase alone is insufficient. This is a comparison of inspected text and editorial labels, not a claim that the recording has been heard or timed here. The [annotation record](../references/shazam-undated-stand-by-me.md) states the inspection limits. No timestamps are supplied; use locations checked against your selected recording.
+
+3. Replay the two labelled choruses while silent. Listen for the returning vocal pattern as well as the words; a small delivery change need not mean a new section. Then compare the two verses. Repeated melody can occur there too. New chords, a louder voice or a different tune are not required to establish a chorus. If the musical comparison is unclear, retain the supplied labels as support and ask for a demonstration; do not guess an independent conclusion.
+4. Make one small check: **In the two labelled choruses, do the words mainly return to the same appeal, or develop different situations?** A short answer is enough; unsure is useful information. The comparison above supports the first answer. This checks understanding with support, not independent section recognition. In coaching, wait for the actual reply and explain any remaining confusion before adding another question. Later, ask the learner to locate a chorus return without the labels if independent recognition matters.
+5. Sketch only enough of the selected version to orient your singing: the first verse and chorus, any later repeats or instrumental passages you can identify, and the ending. Mark uncertain boundaries as uncertain. Read the words, resolve unfamiliar pronunciation with a reliable example or teacher, and choose what you want to communicate. A request for presence and support is an initial interpretation, not the only acceptable emphasis.
+6. Select one phrase and an audible cue before it, such as an accompaniment event or preceding phrase. Listen across its beginning and end. A supplied section label and a clear entrance are enough to begin phrase learning; a complete independent form analysis is not a prerequisite.
+
+This listening sequence applies [published form distinctions](../references/open-music-theory-undated-pop-rock-form.md) through an authored beginner comparison. It is kept here rather than presented as a separately established Method. For another song, choose an appropriate labelled example; not every song contains a chorus or follows this sequence.
 
 ## Stage3 Learn a meaningful phrase
 
@@ -123,11 +138,13 @@ The note is optional presentation, not a required form. Keep recordings and pers
 
 ## Current practice summary
 
-No song performance, selected key, vocal range, learner result or improvement has been observed. The example decisions are authored scenarios. The private record remains blank until the learner actually attempts the task.
+No learner outcomes are published here. The example decisions are authored scenarios; this public Practice's outcome summary is intentionally blank. Record actual attempts and unresolved questions separately in private learning notes.
 
 ## Source basis and limits
 
 - [RSL Vocals Grade 1](../references/rsl-undated-vocals-grade-1.md): the official repertoire listing supports choosing an educationally used song. Its purchased arrangement and audio were not inspected; its grade is not our completion criterion.
+- [Open Music Theory's pop/rock form chapters](../references/open-music-theory-undated-pop-rock-form.md): inspected terminology, section functions, analytical notation and worked form accounts support the verse–chorus distinction. The beginner listening sequence is our application.
+- [Shazam's section annotation](../references/shazam-undated-stand-by-me.md): inspected editorial labels and textual differences support Stage2's locators and comparison. These do not verify audio, timestamps or every section in the selected recording.
 - [Open Music Theory](../references/open-music-theory-undated-sight-singing.md): strategies for slower work, manageable passages and separating pitch/rhythm. On 2026-10-16 the official-page search excerpt was available but direct retrieval failed. Applying these to learning a familiar song by ear is our adaptation.
 - [Trinity singing syllabus](../references/trinity-2026-singing-syllabus.md), page 39 (component definitions re-inspected 2026-10-16): distinguishes accuracy/fluency, technical facility and communication/interpretation. We use these as broad concerns, without copying an exam rubric or claiming an equivalent grade.
 - [NIDCD voice care](../references/nidcd-2025-taking-care-of-your-voice.md): general voice-use boundaries. It does not validate this sequence or establish a safe personal dose.
