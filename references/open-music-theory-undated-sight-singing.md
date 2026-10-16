@@ -1,7 +1,7 @@
 ---
 id: "sing:reference:omt-sight-singing"
 type: "reference"
-version: "0.1.0"
+version: "0.1.1"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -9,8 +9,8 @@ source_title: "The Basics of Sight Singing and Dictation"
 creators: "Samuel Brady, Chelsey Hamm and Kris Shaffer"
 source_type: "open educational music theory pedagogy chapter"
 url: "https://viva.pressbooks.pub/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/"
-accessed: "2026-10-13"
-access_extent: "Strategies for Sight Singing and Sight Counting on the public HTML chapter"
+accessed: "2026-10-16"
+access_extent: "2026-10-16: search-indexed excerpt of the official chapter's Strategies for Sight-Singing and Sight-Counting, including tapping, slower tempo and separating rhythm and pitch; direct page retrieval failed. Prior 2026-10-13 inspection: that section on the public HTML chapter."
 date_basis: "Chapter publication date not independently established on the inspected page; source recorded as undated"
 evidence_family: "The Basics of Sight Singing and Dictation"
 ---
@@ -31,7 +31,7 @@ This record identifies a published source and the exact part used to support beg
 
 **External publication:** [The Basics of Sight Singing and Dictation](https://viva.pressbooks.pub/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/).
 
-**Accessed:** 2026-10-13. **Inspected extent:** Strategies for Sight Singing and Sight Counting on the public HTML chapter.
+**Accessed:** 2026-10-16. **Inspected extent:** The official chapter's search-indexed strategies excerpt confirms tapping, slower tempo and separating rhythm and pitch. Direct page retrieval failed; this is not a fresh full-chapter inspection. The prior 2026-10-13 inspection covered the strategies section on the public HTML chapter.
 
 ## Located contribution
 
